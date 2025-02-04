@@ -35,7 +35,7 @@ As you will see, most of the papers listed below will be related to the topics j
 **Workflow:** Every day, I will post a short summary of the paper and my thoughts on my personal interest in this subject. At the end, I will write a summary of what I learned and new perspectives I gained.
 
 # Papers
-I will start with more general papers and proceed to more specific ones
+I will start with more general papers and proceed to more specific ones.
 1. Aguirre, L. A. & Letellier, C. Modeling Nonlinear Dynamics and Chaos: A Review. Mathematical Problems in Engineering 2009, 238960 (2009).
 2. Alexandrov, D. V., Bashkirtseva, I. A., Crucifix, M. & Ryashko, L. B. Nonlinear climate dynamics: From deterministic behaviour to stochastic excitability and chaos. Physics Reports 902, 1–60 (2021).
 3. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021).
@@ -52,3 +52,13 @@ I will start with more general papers and proceed to more specific ones
 14. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014).
 15. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024).
 
+# Summaries
+## 1. Modeling Nonlinear Dynamics and Chaos: A Review (2008)
+Date: 04.02.2025
+The paper describes various aspects of building nonlinear models from time series data. The authors shortly introduce early influential works. 
+Then, model classes are described that have been used to model nonlinear dynamics like polynomials, neural networks, radial basis functions, wavelets and more.
+Structure selection, or the question of chosing a model that is as simple as possible but sufficiently complex to capture the dynamics underlying the data, and embeddings as part of the modeling process are discussed.
+Lastly, techniques for parameter estimation and model validation were described.
+
+In summary, most aspects of model construction from time series data were discussed and examples of papers were provided. Though likely being out-of-date, it might serve as a really good reference work for finding previous work in this area. From here it would be interesting to see whether there are more recent papers along the lines of this one.
+Though this direction of research is interesting to me, I am more interested in understanding a given ODE rather than finding an ODE that describes the data well. 
