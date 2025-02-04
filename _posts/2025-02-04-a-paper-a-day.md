@@ -37,7 +37,7 @@ As you will see, most of the papers listed below will be related to the topics j
 A list of all papers can be found at the bottom of the page.
 
 # Summaries
-## 1. Modeling Nonlinear Dynamics and Chaos: A Review (2008)
+## 1. Modeling Nonlinear Dynamics and Chaos: A Review (2009)
 **04.02.2025:** 
 The paper describes various aspects of building nonlinear models from time series data. The authors shortly introduce early influential works. 
 Then, model classes are described that have been used to model nonlinear dynamics like polynomials, neural networks, radial basis functions, wavelets and more.
