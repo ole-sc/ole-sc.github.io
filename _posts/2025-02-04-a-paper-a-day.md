@@ -41,17 +41,24 @@ A list of all papers can be found at the bottom of the page.
 **04.02.2025:** 
 The paper describes various aspects of building nonlinear models from time series data. The authors shortly introduce early influential works. 
 Then, model classes are described that have been used to model nonlinear dynamics like polynomials, neural networks, radial basis functions, wavelets and more.
-Structure selection, or the question of chosing a model that is as simple as possible but sufficiently complex to capture the dynamics underlying the data, and embeddings as part of the modeling process are discussed.
+Structure selection, or the question of choosing a model that is as simple as possible but sufficiently complex to capture the dynamics underlying the data, and embeddings as part of the modeling process are discussed.
 Lastly, techniques for parameter estimation and model validation were described.
 
 In summary, most aspects of model construction from time series data were discussed and examples of papers were provided. Though likely being out-of-date, it might serve as a really good reference work for finding previous work in this area. From here it would be interesting to see whether there are more recent papers along the lines of this one.
-Though this direction of research is interesting to me, I am more interested in understanding a given ODE rather than finding an ODE that describes the data well. 
+Though this direction of research is interesting to me, I am more interested in understanding a given ODE rather than finding an ODE that describes some given data well. 
+
+## 1. 25 years of criticality in neuroscience — established results, open controversies, novel concepts (2019)
+**05.02.2025:** In the paper the controveries behind the concept of criticality in the brain is discussed: Power law distibutions of avalanches, that is cascades of neural activity, were found in experiments suggesting neural activity is in a critical state. However, follow-up, in vivo experiments usually do not show power law distributions of avalanche sizes.
+Criticality would leat to some positive and some negative effects to brain function. The authors argue that the best balance between these effects is likely achieved close to, but not exactly at criticality. 
+Based on a previous publication by the authors where they introduced a method to quantify the distance to criticality, they argue that the brain is in a "reverberating regime" that has some upsides and can potentially resolve the controversities surrounding criticality.
+
+Short and easy to read. Gives an interesting overview of the question of criticality and offers a potential solution. The topic is very fascinating and I could certainly see myself moving in this direction at some point. I will add another paper related to this topic, because I feel like a lot of aspects of computational neuroscience are not covered.
 
 # Papers
 1. Aguirre, L. A. & Letellier, C. Modeling Nonlinear Dynamics and Chaos: A Review. Mathematical Problems in Engineering 2009, 238960 (2009).
-2. Alexandrov, D. V., Bashkirtseva, I. A., Crucifix, M. & Ryashko, L. B. Nonlinear climate dynamics: From deterministic behaviour to stochastic excitability and chaos. Physics Reports 902, 1–60 (2021).
-3. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021).
-4. Wilting, J. & Priesemann, V. 25 years of criticality in neuroscience — established results, open controversies, novel concepts. Current Opinion in Neurobiology 58, 105–111 (2019).
+2. Wilting, J. & Priesemann, V. 25 years of criticality in neuroscience — established results, open controversies, novel concepts. Current Opinion in Neurobiology 58, 105–111 (2019).
+3. Alexandrov, D. V., Bashkirtseva, I. A., Crucifix, M. & Ryashko, L. B. Nonlinear climate dynamics: From deterministic behaviour to stochastic excitability and chaos. Physics Reports 902, 1–60 (2021).
+4. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021).
 5. Terhaar, J., Vogt, L. & Foukal, N. P. Atlantic overturning inferred from air-sea heat fluxes indicates no decline since the 1960s. Nat Commun 16, 222 (2025).
 6. Mishra, A. & Majhi, S. K. A comprehensive survey of recent developments in neuronal communication and computational neuroscience. Journal of Industrial Information Integration 13, 40–54 (2019).
 7. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015.
@@ -63,3 +70,7 @@ Though this direction of research is interesting to me, I am more interested in 
 13. Pisarchik, A. N. & Feudel, U. Control of multistability. Physics Reports 540, 167–218 (2014).
 14. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014).
 15. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024).
+16. Mangiarotti, S. & Huc, M. Can the original equations of a dynamical system be retrieved from observational time series? Chaos: An Interdisciplinary Journal of Nonlinear Science 29, 023133 (2019).
+17. Wilting, J. & Priesemann, V. Inferring collective dynamical states from widely unobserved systems. Nat Commun 9, 2325 (2018).
+
+
