@@ -47,7 +47,7 @@ Lastly, techniques for parameter estimation and model validation were described.
 In summary, most aspects of model construction from time series data were discussed and examples of papers were provided. Though likely being out-of-date, it might serve as a really good reference work for finding previous work in this area. From here it would be interesting to see whether there are more recent papers along the lines of this one.
 Though this direction of research is interesting to me, I am more interested in understanding a given ODE rather than finding an ODE that describes some given data well. 
 
-## 1. 25 years of criticality in neuroscience — established results, open controversies, novel concepts (2019)
+## 2. 25 years of criticality in neuroscience — established results, open controversies, novel concepts (2019)
 **05.02.2025:** In the paper the controveries behind the concept of criticality in the brain is discussed: Power law distibutions of avalanches, that is cascades of neural activity, were found in experiments suggesting neural activity is in a critical state. However, follow-up, in vivo experiments usually do not show power law distributions of avalanche sizes.
 Criticality would leat to some positive and some negative effects to brain function. The authors argue that the best balance between these effects is likely achieved close to, but not exactly at criticality. 
 Based on a previous publication by the authors where they introduced a method to quantify the distance to criticality, they argue that the brain is in a "reverberating regime" that has some upsides and can potentially resolve the controversities surrounding criticality.
