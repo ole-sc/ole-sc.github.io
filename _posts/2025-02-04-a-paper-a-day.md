@@ -54,6 +54,18 @@ Based on a previous publication by the authors where they introduced a method to
 
 Short and easy to read. Gives an interesting overview of the question of criticality and offers a potential solution. The topic is very fascinating and I could certainly see myself moving in this direction at some point. I will add another paper related to this topic, because I feel like a lot of aspects of computational neuroscience are not covered.
 
+## 3. Atlantic overturning inferred from air-sea heat fluxes indicates no decline since the 1960s (2025)
+**06.02.2025:** The authors argue that the subpolar gyre (SG) sea surface temperature (SST) is not as good a proxy as previously assumed.
+Based on CMIP6 models, the authors find a strong relation between air-sea heat flux anomalies and AMOC anomalies and propose this as a better proxy. They reconstruct the AMOC strength based on air-sea heat flux observations since 1958 and find no indication of decline.
+They also state the variability of the reconstructed AMOC anomaly is lower than in climate models suggesting that climate models underestimate the AMOC stability.
+
+A couple of weeks ago, I presented a paper warning about a collapse of the AMOC by Ditlevsen and Ditlevsen. Their prediction was based on the SG SST and this paper suggests that this proxy might not have been as good as assumed (among some other problems).
+I think to really judge the methods, a better understanding of the CMIP models is necessary. I think it is interesting to stay up to date in the ongoing discussion about the AMOC. 
+I am not sure whether I could contribute in a meaningful way to the AMOC research in the future because it is already so actively researched and discussed.
+
+
+
+
 # Papers
 1. Aguirre, L. A. & Letellier, C. Modeling Nonlinear Dynamics and Chaos: A Review. Mathematical Problems in Engineering 2009, 238960 (2009).
 2. Wilting, J. & Priesemann, V. 25 years of criticality in neuroscience — established results, open controversies, novel concepts. Current Opinion in Neurobiology 58, 105–111 (2019).
