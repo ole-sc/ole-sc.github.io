@@ -60,8 +60,17 @@ Based on CMIP6 models, the authors find a strong relation between air-sea heat f
 They also state the variability of the reconstructed AMOC anomaly is lower than in climate models suggesting that climate models underestimate the AMOC stability.
 
 A couple of weeks ago, I presented a paper warning about a collapse of the AMOC by Ditlevsen and Ditlevsen. Their prediction was based on the SG SST and this paper suggests that this proxy might not have been as good as assumed (among some other problems).
-I think to really judge the methods, a better understanding of the CMIP models is necessary. I think it is interesting to stay up to date in the ongoing discussion about the AMOC. 
+I think to really judge the methods, a better understanding of the CMIP models is necessary. I would be interested in staying up to date in the ongoing discussion about the AMOC. 
 I am not sure whether I could contribute in a meaningful way to the AMOC research in the future because it is already so actively researched and discussed.
+
+
+## 4. Adaptive coevolutionary networks: a review (2008)
+**07.02.2025:** Adaptive networks combine dynamics of the node states and dynamics of the network topology. 
+They occur in a large variety of scenarios like: social networks, neural networks, game theory, infrastructure and more. A variety of mostly conceptual models is reviewed. These models are based on either rewiring links or changing weights usually based on local rules. Among the observed resulting properties are complex network structure, self-organization to criticality, nodes separating into distinct classes and complex system dynamics. The authors hope to kick off a more extensive investigation of adaptive networks.
+
+I am very interested where the developments of adaptive networks stands today. 
+This direction of research is really exciting to me and I am maybe even prefer nonlinear dynamics on networks to a purely nonlinear dynamics focused master's thesis which would build on the papers by Alkhayuon that I will read later in this project.
+
 
 
 
