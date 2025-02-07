@@ -91,7 +91,7 @@ This direction of research is really exciting to me and I am maybe even prefer n
 15. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
 16. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 17. Berner, R., Gross, T., Kuehn, C., Kurths, J. & Yanchuk, S. Adaptive dynamical networks. _Physics Reports_ **1031**, 1–59 (2023). **57 pages**
-18. 16. Alexandrov, D. V., Bashkirtseva, I. A., Crucifix, M. & Ryashko, L. B. Nonlinear climate dynamics: From deterministic behaviour to stochastic excitability and chaos. Physics Reports 902, 1–60 (2021). **60 pages**
-19. 7. Pisarchik, A. N. & Feudel, U. Control of multistability. Physics Reports 540, 167–218 (2014). **52 pages**
-20. 11. Masuda, N., Porter, M. A. & Lambiotte, R. Random walks and diffusion on networks. _Physics Reports_ **716–717**, 1–58 (2017). **57 pages**
+18. Alexandrov, D. V., Bashkirtseva, I. A., Crucifix, M. & Ryashko, L. B. Nonlinear climate dynamics: From deterministic behaviour to stochastic excitability and chaos. Physics Reports 902, 1–60 (2021). **60 pages**
+19. Pisarchik, A. N. & Feudel, U. Control of multistability. Physics Reports 540, 167–218 (2014). **52 pages**
+20. Masuda, N., Porter, M. A. & Lambiotte, R. Random walks and diffusion on networks. _Physics Reports_ **716–717**, 1–58 (2017). **57 pages**
 
