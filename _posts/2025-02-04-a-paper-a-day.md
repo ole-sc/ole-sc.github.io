@@ -71,6 +71,18 @@ They occur in a large variety of scenarios like: social networks, neural network
 I am very interested where the developments of adaptive networks stands today. 
 This direction of research is really exciting to me and I am maybe even prefer nonlinear dynamics on networks to a purely nonlinear dynamics focused master's thesis which would build on the papers by Alkhayuon that I will read later in this project.
 
+## 5. Universality in network dynamics (2013)
+**08.02.2025:** The authors derive from some rather general deterministic dynamical equations on networks equations for some important network properties such as local impact and stability, distance-dependent correlation function, and cascade size.
+They find that local impact and stability are only influenced by the dynamics and not the topology of the network. 
+This results in four universality classes: uniform vs degree-dependent stability and uniform vs degree-dependent impact (four combinations possible.).
+For the distance-dependent correlation function (propagation of pertubations) they find either conservative or dissipative dynamics that is governed both by the topology and the dynamics.
+For the cascades, the local impact and the propagation determine uniform vs heterogenous cascade sizes.
+The authors show that the universality classes can describe the dynamics of four frequently used models very well and predict that these universality classes can be used to study systems with unknown dynamics.
+
+I think the paper was not too difficult to read, though the calculations were outsourced to the supplementary material, and offered an interesting insight into central aspects of network science.
+Though very diverse on the surface, the paper predicts that dynamics on networks can be placed into only a few universality classes. I didn't expect to see Laurent expansions again, but they made a reappearence here. 
+This suggests that we could also look at dynamics with singularities which I wrote my Bachelor's thesis about and would be interested to study again.
+Again, very interesting topic and I will for sure try to further pursue network science in the future.
 
 
 # Papers
