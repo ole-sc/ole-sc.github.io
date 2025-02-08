@@ -90,16 +90,16 @@ Again, very interesting topic and I will for sure try to further pursue network 
 2. Wilting, J. & Priesemann, V. 25 years of criticality in neuroscience — established results, open controversies, novel concepts. Current Opinion in Neurobiology 58, 105–111 (2019). **8 pages**
 3. Terhaar, J., Vogt, L. & Foukal, N. P. Atlantic overturning inferred from air-sea heat fluxes indicates no decline since the 1960s. Nat Commun 16, 222 (2025). **17 pages**
 4. Gross, T. & Blasius, B. Adaptive coevolutionary networks: a review. J. R. Soc. Interface. 5, 259–271 (2008). **13 pages**
-5. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
-6. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
-7. Irwin, E. G., Jayaprakash, C. & Munroe, D. K. Towards a comprehensive framework for modeling urban spatial dynamics. Landscape Ecol 24, 1223–1236 (2009). **14 pages**
-8. Alkhayuon, H. M. & Ashwin, P. Rate-induced tipping from periodic attractors: Partial tipping and connecting orbits. Chaos: An Interdisciplinary Journal of Nonlinear Science 28, 033608 (2018). **12 pages**
-9. Alkhayuon, H., Tyson, R. C. & Wieczorek, S. Phase tipping: how cyclic ecosystems respond to contemporary climate. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 477, 20210059 (2021). **26 pages**
-10. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
-11. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
-12. DeAngelis, D. L. & Diaz, S. G. Decision-Making in Agent-Based Modeling: A Current Review and Future Prospectus. _Front. Ecol. Evol._ **6**, (2019). **15 pages**
-13. Wilting, J. & Priesemann, V. Inferring collective dynamical states from widely unobserved systems. _Nat Commun_ **9**, 2325 (2018). **7 pages**
-14. Barzel, B. & Barabási, A.-L. Universality in network dynamics. _Nature Phys_ **9**, 673–681 (2013).**10 pages**
+5. Barzel, B. & Barabási, A.-L. Universality in network dynamics. _Nature Phys_ **9**, 673–681 (2013).**10 pages**
+6. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
+7. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
+8. Irwin, E. G., Jayaprakash, C. & Munroe, D. K. Towards a comprehensive framework for modeling urban spatial dynamics. Landscape Ecol 24, 1223–1236 (2009). **14 pages**
+9. Alkhayuon, H. M. & Ashwin, P. Rate-induced tipping from periodic attractors: Partial tipping and connecting orbits. Chaos: An Interdisciplinary Journal of Nonlinear Science 28, 033608 (2018). **12 pages**
+10. Alkhayuon, H., Tyson, R. C. & Wieczorek, S. Phase tipping: how cyclic ecosystems respond to contemporary climate. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 477, 20210059 (2021). **26 pages**
+12. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
+12. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
+13. DeAngelis, D. L. & Diaz, S. G. Decision-Making in Agent-Based Modeling: A Current Review and Future Prospectus. _Front. Ecol. Evol._ **6**, (2019). **15 pages**
+14. Wilting, J. & Priesemann, V. Inferring collective dynamical states from widely unobserved systems. _Nat Commun_ **9**, 2325 (2018). **7 pages**
 15. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
 16. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 17. Berner, R., Gross, T., Kuehn, C., Kurths, J. & Yanchuk, S. Adaptive dynamical networks. _Physics Reports_ **1031**, 1–59 (2023). **57 pages**
