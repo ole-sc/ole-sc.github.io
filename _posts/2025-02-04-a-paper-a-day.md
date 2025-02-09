@@ -99,7 +99,7 @@ Again, very interesting topic and I will for sure try to further pursue network 
 Alkhayuon, H. M. & Ashwin, P.
 
 **09.02.2025:** This paper discusses nonautonomous nonlinear dynamical systems where a parameter changes at a certain rate, called parameter shift systems.
-They show that if the parameter changes from $\lambda_-$ to $\lambda_+$, there exists a set for a point in time such that if you rewind the clock, you end up at an attractor of the time-independent system with the fixed parameter $\lambda_-$.
+They show that if the parameter changes from \(\lambda_-\) to \(\lambda_+\), there exists a set for a point in time such that if you rewind the clock, you end up at an attractor of the time-independent system with the fixed parameter \(\lambda_-\).
 They show that for an attractor that changes continously in time, then trajectories will stay within the basin of attraction for small rates of change.
 However, it is possible that some or all trajectories will tip away from this attractor.
 They provide an example that highlights their results and numerically find critical rates of change for this system.
