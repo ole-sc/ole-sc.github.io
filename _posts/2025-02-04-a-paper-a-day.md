@@ -106,7 +106,7 @@ They provide an example that highlights their results and numerically find criti
 
 This paper was much more technical than the previous ones and I did not understand everything. 
 I read this paper because it is related to one of my potential thesis topics.
-The approach is more mathematical than I am used to in my Master's degree and I do think that I would like that for my master's thesis.
+The approach is more mathematical than I am used to in my master's degree and I do think that I would like that for my master's thesis.
 I am slightly intimidated because there are a lot of things I would have to learn to get a good grasp on this but a lot of these I would also really like to know.
 
 ## 7. Towards a comprehensive framework for modeling urban spatial dynamics (2009)
