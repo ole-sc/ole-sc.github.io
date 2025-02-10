@@ -109,6 +109,17 @@ I read this paper because it is related to one of my potential thesis topics.
 The approach is more mathematical than I am used to in my Master's degree and I do think that I would like that for my master's thesis.
 I am slightly intimidated because there are a lot of things I would have to learn to get a good grasp on this but a lot of these I would also really like to know.
 
+## 7. Towards a comprehensive framework for modeling urban spatial dynamics (2009)
+Irwin, E. G., Jayaprakash, C. & Munroe, D. K. 
+
+**10.02.2025:** This paper suggests a framework for modeling urban spatial dynamics as complex adaptive systems.
+They argue that a three-stage process should be used: First, identify and monitor key system patterns. 
+Then, create simple spatially explicit agent-based models. Lastly, iterate between validating the model and model development.
+They argue that defining effective dynamical equations (empirical equations describing the evolution of a observed variable) and comparing them against the effective dynamical equation of the models could help in validation.
+
+The paper did not go into much detail and I would like to see whether their approach has acutally been used succesfully and if their validation method holds up.
+Thinking about modeling frameworks is definetly useful for me and I am also interested in modeling cities because they seem to provide a fascinating and important modeling target.
+It was cool to see that my skills could be valuable in this area and I am interested to see where the field stands today.
 
 
 
