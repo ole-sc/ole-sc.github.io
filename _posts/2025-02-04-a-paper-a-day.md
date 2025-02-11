@@ -100,8 +100,8 @@ Alkhayuon, H. M. & Ashwin, P.
 
 **09.02.2025:** This paper discusses nonautonomous nonlinear dynamical systems where a parameter changes at a certain rate, called parameter shift systems.
 They show that if the parameter changes from $$\lambda_-$$ to $$\lambda_+$$, there exists a set for a point in time such that if you rewind the clock, you end up at an attractor of the time-independent system with the fixed parameter $$\lambda_-$$.
-They show that for an attractor that changes continously in time, then trajectories will stay within the basin of attraction for small rates of change.
-However, it is possible that some or all trajectories will tip away from this attractor.
+They show that for an attractor that changes continously in time, then trajectories will stay within the basin of attraction for small rates of change of the parameter.
+However, it is possible that some or all trajectories will tip away from this attractor for higher rates of change.
 They provide an example that highlights their results and numerically find critical rates of change for this system.
 
 This paper was much more technical than the previous ones and I did not understand everything. 
@@ -121,6 +121,20 @@ The paper did not go into much detail and I would like to see whether their appr
 Thinking about modeling frameworks is definetly useful for me and I am also interested in modeling cities because they seem to provide a fascinating and important modeling target.
 It was cool to see that my skills could be valuable in this area and I am interested to see where the field stands today.
 
+## 8. Inferring collective dynamical states from widely unobserved systems.
+Wilting, J. & Priesemann, V.
+
+**11.02.2025:** The authors show that inferring stability using a process with a first order autoregressive representation (PAR) is biased when only a part of the system is observed.
+They show that linear regressions have the same bias independent of the number of time steps between observations and use this fact to create an unbiased estimator of the stability.
+This means that even very small portions of the network are sufficient to estimate how a close a system is to criticality provided long enough time-series data is available.
+The method is used in simulated systems and shown to perfectly predict closeness to criticality while convential methods underestimate it.
+They then show that the brain of varying animals is likely very close to, but not exactly at criticality.
+
+The results seem very useful for understanding a variety of systems and much better than previous method.
+They seem almost to good to be true, but there are probably limitations why they can't be used absolutely everywhere.
+The method does not sound exceptionally complicated so I am surprised it wasn't developed earlier.
+I hadn't heard of PAR before and I'd like to understand how it is related to the modeling of complex systems from time-series data as described in the first paper I read.
+
 
 
 # Papers
@@ -131,7 +145,7 @@ It was cool to see that my skills could be valuable in this area and I am intere
 4. Gross, T. & Blasius, B. Adaptive coevolutionary networks: a review. J. R. Soc. Interface. 5, 259–271 (2008). **13 pages**
 5. Barzel, B. & Barabási, A.-L. Universality in network dynamics. _Nature Phys_ **9**, 673–681 (2013).**10 pages**
 6. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
-7. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
+7. Alridha, A. H., Al-Jilawi, A. S. & Alsharify, F. H. A. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
 8. Irwin, E. G., Jayaprakash, C. & Munroe, D. K. Towards a comprehensive framework for modeling urban spatial dynamics. Landscape Ecol 24, 1223–1236 (2009). **14 pages**
 9. Alkhayuon, H. M. & Ashwin, P. Rate-induced tipping from periodic attractors: Partial tipping and connecting orbits. Chaos: An Interdisciplinary Journal of Nonlinear Science 28, 033608 (2018). **12 pages**
 10. Alkhayuon, H., Tyson, R. C. & Wieczorek, S. Phase tipping: how cyclic ecosystems respond to contemporary climate. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 477, 20210059 (2021). **26 pages**
