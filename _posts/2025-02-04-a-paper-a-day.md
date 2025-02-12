@@ -121,7 +121,7 @@ The paper did not go into much detail and I would like to see whether their appr
 Thinking about modeling frameworks is definetly useful for me and I am also interested in modeling cities because they seem to provide a fascinating and important modeling target.
 It was cool to see that my skills could be valuable in this area and I am interested to see where the field stands today.
 
-## 8. Inferring collective dynamical states from widely unobserved systems.
+## 8. Inferring collective dynamical states from widely unobserved systems (2018)
 Wilting, J. & Priesemann, V.
 
 **11.02.2025:** The authors show that inferring stability using a process with a first order autoregressive representation (PAR) is biased when only a part of the system is observed.
@@ -135,7 +135,18 @@ They seem almost to good to be true, but there are probably limitations why they
 The method does not sound exceptionally complicated so I am surprised it wasn't developed earlier.
 I hadn't heard of PAR before and I'd like to understand how it is related to the modeling of complex systems from time-series data as described in the first paper I read.
 
+## 9.  Dynamics of tipping cascades on complex networks (2020)
+Krönke, J., et al.
 
+**12.02.2025:** The authors numerically analyse cascades on directed dynamical networks. 
+Dynamics on nodes are described by the hysteresis normal form and coupled with adjacent nodes. 
+For a variety of different network topologies and properties like networks size and mean degree, they analyse the coupling strength required to lead to large cascades, that is multiple nodes tipping to a different state after a single node tips.
+They find that a lower number of nodes and a higher mean degree lead to higher vulnerability.
+They also conclude that feed-forward loops have more impact on the vulnerability than feedback loops.
+
+This paper is directly related to the paper about universality classes. The cascade size distributions found here seem to be very different from the universality classes described there.
+The ODE equation certainly matches the form preseted by Wilting and Priesemann, so it would be very interesting to calculate the expected results and see whether it matches the observations from this paper.
+This paper was very descriptive and did not really try to explain their results mathematically.
 
 # Papers
 (Not in order)
@@ -159,4 +170,4 @@ I hadn't heard of PAR before and I'd like to understand how it is related to the
 18. Alexandrov, D. V., Bashkirtseva, I. A., Crucifix, M. & Ryashko, L. B. Nonlinear climate dynamics: From deterministic behaviour to stochastic excitability and chaos. Physics Reports 902, 1–60 (2021). **60 pages**
 19. Pisarchik, A. N. & Feudel, U. Control of multistability. Physics Reports 540, 167–218 (2014). **52 pages**
 20. Masuda, N., Porter, M. A. & Lambiotte, R. Random walks and diffusion on networks. _Physics Reports_ **716–717**, 1–58 (2017). **57 pages**
-
+21. Krönke, J. _et al._ Dynamics of tipping cascades on complex networks. _Phys. Rev. E_ **101**, 042311 (2020). **9 pages**
