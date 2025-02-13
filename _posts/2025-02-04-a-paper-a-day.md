@@ -148,6 +148,20 @@ This paper is directly related to the paper about universality classes. The casc
 The ODE equation certainly matches the form preseted by Wilting and Priesemann, so it would be very interesting to calculate the expected results and see whether it matches the observations from this paper.
 This paper was very descriptive and did not really try to explain their results mathematically.
 
+## 10.  Phase tipping: how cyclic ecosystems respond to contemporary climate (2021)
+Alkhayuon, H., Tyson, R. C. & Wieczorek, S.
+
+**12.02.2025:** For cyclic attractors, it is shown that for the Rosenzweig-MacArthur model and the May model with instant parameter switches, some trajectories can tip to extinction without a bifurcation.
+Through the parameter change, a part of the previous limit cycle now lies outside the basin of attraction of the limit cycle with the new parameter value.
+A mathematical definition for partial basin instability and phase tipping is put forward.
+They show that this explains the simulation results and propose that this is a new tipping mechanism called phase tipping or P-tipping.
+
+
+To me it seems like this is just rate-induced tipping because the basin of attractions changes as a result of the parameter change which leads to some trajectories leaving the basin of attraction (but I don't know how rate-induced tipping is usually understood.).
+This paper was easier to understand than the paper about rate-induced tipping (paper 6) and I like the mathematical approach to studying these systems as it seems more concrete than just qualitatively describing simulation results.
+I think that I got a relatively good idea of how one could tackle nonautonomous systems mathematically.
+
+
 # Papers
 (Not in order)
 
@@ -160,10 +174,10 @@ This paper was very descriptive and did not really try to explain their results 
 7. Irwin, E. G., Jayaprakash, C. & Munroe, D. K. Towards a comprehensive framework for modeling urban spatial dynamics. Landscape Ecol 24, 1223–1236 (2009). **14 pages**
 8. Wilting, J. & Priesemann, V. Inferring collective dynamical states from widely unobserved systems. _Nat Commun_ **9**, 2325 (2018). **7 pages**
 9. Krönke, J. _et al._ Dynamics of tipping cascades on complex networks. _Phys. Rev. E_ **101**, 042311 (2020). **9 pages**
+10. Alkhayuon, H., Tyson, R. C. & Wieczorek, S. Phase tipping: how cyclic ecosystems respond to contemporary climate. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 477, 20210059 (2021). **26 pages**
 
-10. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
-11. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
-12. Alkhayuon, H., Tyson, R. C. & Wieczorek, S. Phase tipping: how cyclic ecosystems respond to contemporary climate. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 477, 20210059 (2021). **26 pages**
+11. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
+12. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
 13. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
 14. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
 15. DeAngelis, D. L. & Diaz, S. G. Decision-Making in Agent-Based Modeling: A Current Review and Future Prospectus. _Front. Ecol. Evol._ **6**, (2019). **15 pages**
