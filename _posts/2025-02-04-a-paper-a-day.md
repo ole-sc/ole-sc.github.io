@@ -212,11 +212,10 @@ Trajectories move towards the equilibrium along the stable manifold, slowing dow
 The divergence of return times still exists when a small amountof noise is added, though the other aspects of the chaotic attractor get blurred.
 Lastly, in experiments with crayfish cells, a fast increse in interspike intervals was found as well.
 
-I feel very uninformed about the mathematics of manifolds of equilibria I would like to learn more about them. 
-However, for my master topic, I feel like I have a much better intuitive understanding of the phase-tipping concepts.
 I'd like to know if modern neural studies still assume homoclinic orbits exist.
 Also, wouldn't this phenomenon also occur with critical slowing down, i.e. a normal type of bifurcation? 
 Maybe it does not work in combination with chaos, but if it does, then might this be an example of the reverbarating regime from papers 2 and 8?
+For my master topic, I feel like I have a much better intuitive understanding of the phase-tipping concepts.
 
 
 
