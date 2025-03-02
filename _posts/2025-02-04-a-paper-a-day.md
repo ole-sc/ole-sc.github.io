@@ -231,6 +231,19 @@ I think that understanding this example deeply would really help my understandin
 It is also part of the early investigations into nonlinear dynamics and probably what most current experts have learned.
 While having understood the general concepts discussed here, how the stable and unstable manifolds interact (and why one crossing necessitates infinitely many crossings) is still not quite clear to me.
 
+## 16. Challenges, tasks, and opportunities in modeling agent-based complex systems. (2021)
+An, L. _et al._ 
+
+**02.03.2025:** The history of agent-based modelling (ABM) and their use in different disciplines, as well as challenges and opportunities are discussed.
+A variety of challenges is identified such as difficulty regarding coherence in methods and platforms, computational efficiency, transparency and reusability, and generalization of findings.
+They discuss the potential of big data to better identify suitable algorithms and the importance of thorough model validation and point to frameworks developed for model description and validation.
+Lastly, they point to the potential of using AI to create more realistic agent behaviour.
+
+This is for sure a paper to come back to if I want to use ABM in the future. 
+In particular, I want to become able to do thorough model validation to ensure that my results are robust.
+Another useful aspect was a pointer to a database of agent-based models.
+As stated by the authors as well, one issue I have with ABM is that of generalization, because it is so difficult to tackle them theoretically,
+but then again, they seem to be a much more realistic representation of nature and there are apparently validation approaches enabling the identifications of important mechanisms.
 
 # Papers
 
@@ -249,14 +262,13 @@ While having understood the general concepts discussed here, how the stable and 
 13. Mangiarotti, S. & Huc, M. Can the original equations of a dynamical system be retrieved from observational time series? _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **29**, 023133 (2019). **14 pages**
 14. Feudel, U. _et al._ Homoclinic bifurcation in a Hodgkin–Huxley model of thermally sensitive neurons. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **10**, 231–239 (2000).**9 pages**
 15. Grebogi, C., Ott, E. & Yorke, J. A. Metamorphoses of Basin Boundaries in Nonlinear Dynamical Systems. _Phys. Rev. Lett._ **56**, 1011–1014 (1986). **6 pages**
+16. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021). **17 pages**
 
-16. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
-17. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
-18. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
-19. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
-20. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
-21. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
-22. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021). **17 pages**
+17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
+18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
+19. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
+20. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
+21. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
+22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
-24. Grebogi, C., Ott, E. & Yorke, J. A. Metamorphoses of Basin Boundaries in Nonlinear Dynamical Systems. _Phys. Rev. Lett._ **56**, 1011–1014 (1986). **6 pages**
 25. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
