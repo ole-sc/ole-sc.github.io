@@ -19,8 +19,8 @@ I want to start now anyways, because I need to decide on a topic relatively soon
 
 # Project Outline
 - Start Date: 4th of February 2025
-- Break Time (vacation): 12th - 23rd of February
-- End Date: 18th of March
+- Break Time (vacation): 13th - 24th of February
+- End Date: 16th of March
 
 Total: 30 Days
 
@@ -28,7 +28,6 @@ Total: 30 Days
 Additionally, some papers related to potential master's thesis topics were included.
 Lastly, some papers that just sounded interesting or were written by some of my professors were selected as well.
 In total, 15 papers were selected in order to leave room open for follow up research.
-In the unlikely case that anyone reads this before I am finished, any paper suggestions are welcome as well (send me an email to ole.schuegl@uni-oldenburg.de).
 
 **Topics:** I am interested in applying mathematical methods to real problems. Mathematically, I am interested in nonlinear dynamics, network science and statistics. The applications I am generally interested in are climate science, ecology, energy grids, neural dynamics in the brain, urban models and many more though my knowledge about some of these fields is pretty limited.
 As you will see, most of the papers listed below will be related to the topics just mentioned.
@@ -263,6 +262,8 @@ but then again, they seem to be a much more realistic representation of nature a
 14. Feudel, U. _et al._ Homoclinic bifurcation in a Hodgkin–Huxley model of thermally sensitive neurons. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **10**, 231–239 (2000).**9 pages**
 15. Grebogi, C., Ott, E. & Yorke, J. A. Metamorphoses of Basin Boundaries in Nonlinear Dynamical Systems. _Phys. Rev. Lett._ **56**, 1011–1014 (1986). **6 pages**
 16. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021). **17 pages**
+
+---
 
 17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
 18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
