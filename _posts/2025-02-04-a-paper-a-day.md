@@ -244,6 +244,24 @@ Another useful aspect was a pointer to a database of agent-based models.
 As stated by the authors as well, one issue I have with ABM is that of generalization, because it is so difficult to tackle them theoretically,
 but then again, they seem to be a much more realistic representation of nature and there are apparently validation approaches enabling the identifications of important mechanisms.
 
+## 17.  Homoclinic bifurcation in an ocean circulation box model. (2002)
+Kuhlbrodt, T. & Feudel, U
+
+**03.03.2025:** An ocean box model, that was reduced from a slightly more complex model is described and the fixed points and their bifurcations are analysed.
+A saddle-node bifurcation and a subcritical Hopf bifurcation are found.
+These are caused by two different mechanisms, suggesting that there might be different way the THC could tip.
+Additionally, it might be difficult to observe a subcritical bifurcation in simulations.
+Lastly, there is a homoclinic bifurcation, when the unstable periodic orbit and the unstable fixed point collide.
+The homoclinic loop was calculated numerically.
+
+I have to say, the formatting of this paper was a bit rough. 
+The paper can be summarized as calculating the bifurcations in the model.
+I think it would be very beneficial to be able to conduct this type of analysis by myself to have a good basis for future research.
+I am wondering whether the existance of a Hopf bifurcation is generally accepted for the THC because it is not considered by the Ditlevsen paper and would suggest a collapse might be even closer.
+However, since paper 3 questions the reliability of the data used, it might be necessary to redo the analysis with different proxies and potentially consider this Hopf bifurcation as well.
+
+
+
 # Papers
 
 1. Aguirre, L. A. & Letellier, C. Modeling Nonlinear Dynamics and Chaos: A Review. Mathematical Problems in Engineering 2009, 238960 (2009). **35 pages**
@@ -262,6 +280,7 @@ but then again, they seem to be a much more realistic representation of nature a
 14. Feudel, U. _et al._ Homoclinic bifurcation in a Hodgkin–Huxley model of thermally sensitive neurons. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **10**, 231–239 (2000).**9 pages**
 15. Grebogi, C., Ott, E. & Yorke, J. A. Metamorphoses of Basin Boundaries in Nonlinear Dynamical Systems. _Phys. Rev. Lett._ **56**, 1011–1014 (1986). **6 pages**
 16. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021). **17 pages**
+17. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
 
 **Unread**
 
@@ -272,7 +291,6 @@ but then again, they seem to be a much more realistic representation of nature a
 21. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
 22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
-25. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
 26. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
 27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002). **5 pages**
 28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
