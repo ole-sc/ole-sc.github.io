@@ -257,7 +257,7 @@ The homoclinic loop was calculated numerically.
 I have to say, the formatting of this paper was a bit rough. 
 The paper can be summarized as calculating the bifurcations in the model.
 I think it would be very beneficial to be able to conduct this type of analysis by myself to have a good basis for future research.
-I am wondering whether the existance of a Hopf bifurcation is generally accepted for the THC because it is not considered by the Ditlevsen paper and would suggest a collapse might be even closer.
+I am wondering whether the existance of a Hopf bifurcation is generally accepted for the THC because it is not considered by the Ditlevsen paper.
 However, since paper 3 questions the reliability of the data used, it might be necessary to redo the analysis with different proxies and potentially consider this Hopf bifurcation as well.
 
 
