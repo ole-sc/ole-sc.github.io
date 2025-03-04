@@ -260,6 +260,22 @@ I think it would be very beneficial to be able to conduct this type of analysis 
 I am wondering whether the existance of a Hopf bifurcation is generally accepted for the THC because it is not considered by the Ditlevsen paper.
 However, since paper 3 questions the reliability of the data used, it might be necessary to redo the analysis with different proxies and potentially consider this Hopf bifurcation as well.
 
+## 18 Network Motifs: Simple Building Blocks of Complex Networks. (2002)
+Milo, R. _et al._ 
+
+**04.03.2025:** Network motifs are patterns in real networks occuring with a much higher frequency than in random networks.
+The authors implemented an algorithm counting the occurence of $3$ and $4$ node subgraphs. 
+If a given subgraph appeared statistically significantly more often than in a comparable random network, it was flagged as a network motif.
+For networks in biochemistry, ecology, engineering and neurobiology motifs were identified. 
+It was found that netowrks related to information processing shared similar motifs.
+The authors argue that network motifs can define classes of networks that are created by the same elementary principles.
+
+As I have learned in a module that certain motifs allow for determining some eigenvalues easily, I would have liked to learn about more in-depth aspects of network motifs.
+However, the results presented here are still very interesting.
+It would be interesting if there is something like anti-motifs, that is subgraphs being very uncommon because they impair some of the system functions.
+
+
+
 
 
 # Papers
@@ -281,6 +297,7 @@ However, since paper 3 questions the reliability of the data used, it might be n
 15. Grebogi, C., Ott, E. & Yorke, J. A. Metamorphoses of Basin Boundaries in Nonlinear Dynamical Systems. _Phys. Rev. Lett._ **56**, 1011–1014 (1986). **6 pages**
 16. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021). **17 pages**
 17. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
+27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002). **5 pages**
 
 **Unread**
 
@@ -292,5 +309,4 @@ However, since paper 3 questions the reliability of the data used, it might be n
 22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
 26. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
-27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002). **5 pages**
 28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
