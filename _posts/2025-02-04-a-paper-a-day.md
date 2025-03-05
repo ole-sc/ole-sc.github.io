@@ -258,13 +258,13 @@ I have to say, the formatting of this paper was a bit rough.
 The paper can be summarized as calculating the bifurcations in the model.
 I think it would be very beneficial to be able to conduct this type of analysis by myself to have a good basis for future research.
 I am wondering whether the existance of a Hopf bifurcation is generally accepted for the THC because it is not considered by the Ditlevsen paper.
-However, since paper 3 questions the reliability of the data used, it might be necessary to redo the analysis with different proxies and potentially consider this Hopf bifurcation as well.
+However, since paper 3 questions the reliability of the data used by Ditlevsen, it might be necessary to redo the analysis with different proxies and potentially consider this Hopf bifurcation as well.
 
 ## 18 Network Motifs: Simple Building Blocks of Complex Networks. (2002)
 Milo, R. _et al._ 
 
 **04.03.2025:** Network motifs are patterns in real networks occuring with a much higher frequency than in random networks.
-The authors implemented an algorithm counting the occurence of $3$ and $4$ node subgraphs. 
+The authors implemented an algorithm counting the occurence of 3 and 4 node subgraphs. 
 If a given subgraph appeared statistically significantly more often than in a comparable random network, it was flagged as a network motif.
 For networks in biochemistry, ecology, engineering and neurobiology motifs were identified. 
 It was found that netowrks related to information processing shared similar motifs.
@@ -274,8 +274,18 @@ As I have learned in a module that certain motifs allow for determining some eig
 However, the results presented here are still very interesting.
 It would be interesting if there is something like anti-motifs, that is subgraphs being very uncommon because they impair some of the system functions.
 
+## 19. Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system. (2012)
+Ashwin, P., Wieczorek, S., Vitolo, R. & Cox, P. 
 
+**05.03.2025:**  A new type of tipping, called rate-induced tipping or R-tipping is introduced. 
+Some systems can tip when the rate of change of a parameter exceeds a threshold in a way that is distinct from noise-induced tipping or bifurcation-tipping.
+They argue that the effects of a higher dimensional system on a subsystem can be studied by modeling its effect as a time-varying parameter.
+The authors develop a criterion for R-tipping that can be used for simple systems but not easy to compute in general. It is not clear how well this approach works in more complicated systems.
+In total, 4 systems (normal form of saddle-node and Hopf bifurcation, a fast-slow system and a simple climate model) are studied and it is shown that all of them can exhibit R-tipping and the effects of R-tipping are studied.
 
+I could not understand all of the mathematics in this read-through and there was a lot of maths in this paper but I think I got the main ideas.
+I am honestly surprised that the idea of rate-induced tipping is so recent since it seems pretty natural to study systems with changing parameters, but that's easy to say in hindsight.
+To me, it seems like almost all systems have time-varying parameters that could potentially lead to R-tipping which means the system is very relevant but potentially understudied.
 
 
 # Papers
@@ -298,6 +308,8 @@ It would be interesting if there is something like anti-motifs, that is subgraph
 16. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021). **17 pages**
 17. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
 27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002). **5 pages**
+19. Ashwin, P., Wieczorek, S., Vitolo, R. & Cox, P. Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system. _Philos Trans A Math Phys Eng Sci_ **370**, 1166–1184 (2012). **22 pages**
+
 
 **Unread**
 
@@ -310,3 +322,6 @@ It would be interesting if there is something like anti-motifs, that is subgraph
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
 26. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
 28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
+10. Lorenz, E. N. Deterministic Nonperiodic Flow. _Journal of the Atmospheric Sciences_ **20**, 130–141 (1963).
+11. Tipping elements in the Earth’s climate system. [https://www.pnas.org/doi/10.1073/pnas.0705414105](https://www.pnas.org/doi/10.1073/pnas.0705414105) doi:[10.1073/pnas.0705414105](https://doi.org/10.1073/pnas.0705414105). **8 pages**
+12. Baker, J. A. _et al._ Continued Atlantic overturning circulation even under climate extremes. _Nature_ **638**, 987–994 (2025). **21 pages**
