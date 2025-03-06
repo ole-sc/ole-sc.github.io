@@ -287,6 +287,20 @@ I could not understand all of the mathematics in this read-through and there was
 I am honestly surprised that the idea of rate-induced tipping is so recent since it seems pretty natural to study systems with changing parameters, but that's easy to say in hindsight.
 To me, it seems like almost all systems have time-varying parameters that could potentially lead to R-tipping which means the system is very relevant but potentially understudied.
 
+## 20. Adaptive self-organization in a realistic neural network model. (2009)
+Meisel, C. & Gross, T.
+
+**06.03.2025:** A mechanism for self-organised criticality based on adaptive networks is known.
+Here, a network with realistic neural dynamics as well as a realisitc update rule for the network links based on the activity of the neurons is simulated.
+It is found that the average connectivity evolves to a critical value irrespective of initial connectivity. 
+An order measure is found to follow a power law indicating a critical state. 
+A variant of the link update rule is used to study the neuron weights. These also follow a power law and are relatively similar to data of human brains, though whether the field data really follow a power law is unclear.
+The authors conclude that self-organized criticality is likely in real neural systems.
+
+Adaptive networks are really interesting and seem like a intermediate point between simple mathematical models and ABM, maybe providing a mathematically tractable approach for studying more realistic systems.
+This concept of self-organized criticality seems like a very plausible way neural networks might evolve towards criticality and it seems to be possible to reconcile with the idea of a reverberating regime where the brain has mechanism for moving towards cricitality and then perhaps an additional mechanism for avoiding it.
+
+
 
 # Papers
 
@@ -309,6 +323,7 @@ To me, it seems like almost all systems have time-varying parameters that could 
 17. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
 27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002). **5 pages**
 19. Ashwin, P., Wieczorek, S., Vitolo, R. & Cox, P. Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system. _Philos Trans A Math Phys Eng Sci_ **370**, 1166–1184 (2012). **22 pages**
+26. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
 
 
 **Unread**
@@ -320,7 +335,6 @@ To me, it seems like almost all systems have time-varying parameters that could 
 21. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
 22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
-26. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
 28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
 10. Lorenz, E. N. Deterministic Nonperiodic Flow. _Journal of the Atmospheric Sciences_ **20**, 130–141 (1963).
 11. Tipping elements in the Earth’s climate system. [https://www.pnas.org/doi/10.1073/pnas.0705414105](https://www.pnas.org/doi/10.1073/pnas.0705414105) doi:[10.1073/pnas.0705414105](https://doi.org/10.1073/pnas.0705414105). **8 pages**
