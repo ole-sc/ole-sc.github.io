@@ -300,6 +300,18 @@ The authors conclude that self-organized criticality is likely in real neural sy
 Adaptive networks are really interesting and seem like a intermediate point between simple mathematical models and ABM, maybe providing a mathematically tractable approach for studying more realistic systems.
 This concept of self-organized criticality seems like a very plausible way neural networks might evolve towards criticality and it seems to be possible to reconcile with the idea of a reverberating regime where the brain has mechanism for moving towards cricitality and then perhaps an additional mechanism for avoiding it.
 
+## 21. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. (1989) 
+Baer, S. M., Erneux, T. & Rinzel, J. 
+
+**07.03.2025:** This paper already considered the effects of a (slowly) time-varying bifurcation parameter on the FitzHugh-Nagumo neuron model. 
+Theoretically and analytically, they show that the onset of oscillations in a Hopf bifurcation can both be delayed or accelerated with a varying bifurcation parameter.
+They calculate approximations of the moving steady state and its stability and it can be seen that they are qualitatively correct but have some (systematic) errors.
+It is found that the delay is related to the initial distance to the steady state bifurcation point, the ramping rate and reduced by noise.
+
+I think it is interesting that time-varying parameters were already studied in 1989 but the concept of rate induced tipping was developed so much later.
+I did not manage to follow all of the calculations but it is interesting to see that there are techniques for studying time-dependent solutions and that they are related to fields I am relatively comfortable with (the maths still looks very hard).
+
+
 
 
 # Papers
@@ -323,7 +335,8 @@ This concept of self-organized criticality seems like a very plausible way neura
 17. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
 27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002). **5 pages**
 19. Ashwin, P., Wieczorek, S., Vitolo, R. & Cox, P. Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system. _Philos Trans A Math Phys Eng Sci_ **370**, 1166–1184 (2012). **22 pages**
-26. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
+20. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
+21. Baer, S. M., Erneux, T. & Rinzel, J. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. _ResearchGate_ (1989) doi:[10.1137/0149003](https://doi.org/10.1137/0149003).**18 pages**
 
 
 **Unread**
