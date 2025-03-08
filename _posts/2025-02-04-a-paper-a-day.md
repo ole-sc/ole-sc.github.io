@@ -311,8 +311,17 @@ It is found that the delay is related to the initial distance to the steady stat
 I think it is interesting that time-varying parameters were already studied in 1989 but the concept of rate induced tipping was developed so much later.
 I did not manage to follow all of the calculations but it is interesting to see that there are techniques for studying time-dependent solutions and that they are related to fields I am relatively comfortable with (the maths still looks very hard).
 
+## 22. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. (1905)
+Einstein, A. 
 
+**08.03.2025:** In this paper Albert Einstein argues that osmosis pressure should be present for free particles in a fluid, which is not predicted by classical thermodynamics. 
+By considering the free energy of the system, he shows that osmosis pressure is a result of molecular-kinetic theory of heat (which was not established at the time). 
+He then shows that a position-dependent force acting on the particles will be cancelled by the osmosis pressure in the stationary state and that this can be viewed as a diffusion process.
+The diffusion equation is derived and solved and some predictions are derived, enabling the calculation of the size of the atom.
 
+It was tough summarizing this German paper in English, especially since I am not that familiar with molecular physics, so it is likely not very precise.
+However, it was cool reading a paper from the G.O.A.T. himself and interesting to see how much of the maths is familiar and yet slightly different. 
+While not being very relevant to my current studies, it never hurts reading up on important historical works.
 
 # Papers
 
@@ -337,6 +346,7 @@ I did not manage to follow all of the calculations but it is interesting to see 
 19. Ashwin, P., Wieczorek, S., Vitolo, R. & Cox, P. Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system. _Philos Trans A Math Phys Eng Sci_ **370**, 1166–1184 (2012). **22 pages**
 20. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
 21. Baer, S. M., Erneux, T. & Rinzel, J. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. _ResearchGate_ (1989) doi:[10.1137/0149003](https://doi.org/10.1137/0149003).**18 pages**
+22. Einstein, A. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. _Annalen der Physik_ **322**, 549–560 (1905). **12 pages**
 
 
 **Unread**
