@@ -323,6 +323,18 @@ It was tough summarizing this German paper in English, especially since I am not
 However, it was cool reading a paper from the G.O.A.T. himself and interesting to see how much of the maths is familiar and yet slightly different. 
 While not being very relevant to my current studies, it never hurts reading up on important historical works.
 
+## 23. “Make no little plans”: Impactful research to solve the next generation of transportation problems. (2021)
+ Agatz, N., Hewitt, M. & Thomas, B. W.
+
+ **09.03.2025:** Based on the UN sustainable development goals (SDG), challenges and research opportunities for the transportation science community are presented. 
+ The SDG are split into three groups: *well-being, infrastructure and natural environment*. 
+ Some of the areas discussed are access to health care, improving public transport and other alternatives to car transport in cities, and responding to natural disasters. Reducing CO2 emissions was not discussed in detail.
+ Some of the general areas requiring more developments are multi-objective modeling, modeling under uncertainty and integrating stakeholder behavior into models.
+ To achieve good results, the authors call on researchers to engage more with stakeholders and focus more on solving relevant problems than publishing in journals. Additionally, the importance of interpretability of models and results is emphasized to improve the likelihood of implementation.
+
+ While not being the focus of my current studies, transportation science is a very interesting area that is related to many of the mathematical fields I am interested in. Improving public transport in cities for example, feels like a more direct way of achieving a positive impact than many other potential directions I am currently considering. I also want to keep the calls to identifying relevant problems and not only focusing on interesting conceptual models in mind, because this might be a potential issue for me in the future.
+ 
+
 # Papers
 
 1. Aguirre, L. A. & Letellier, C. Modeling Nonlinear Dynamics and Chaos: A Review. Mathematical Problems in Engineering 2009, 238960 (2009). **35 pages**
@@ -347,11 +359,11 @@ While not being very relevant to my current studies, it never hurts reading up o
 20. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
 21. Baer, S. M., Erneux, T. & Rinzel, J. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. _ResearchGate_ (1989) doi:[10.1137/0149003](https://doi.org/10.1137/0149003).**18 pages**
 22. Einstein, A. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. _Annalen der Physik_ **322**, 549–560 (1905). **12 pages**
-
+17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
 
 **Unread**
 
-17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
+
 18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
 19. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
 20. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
