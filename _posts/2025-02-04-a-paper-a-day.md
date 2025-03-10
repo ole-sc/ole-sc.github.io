@@ -324,16 +324,28 @@ However, it was cool reading a paper from the G.O.A.T. himself and interesting t
 While not being very relevant to my current studies, it never hurts reading up on important historical works.
 
 ## 23. “Make no little plans”: Impactful research to solve the next generation of transportation problems. (2021)
- Agatz, N., Hewitt, M. & Thomas, B. W.
+Agatz, N., Hewitt, M. & Thomas, B. W.
 
- **09.03.2025:** Based on the UN sustainable development goals (SDG), challenges and research opportunities for the transportation science community are presented. 
- The SDG are split into three groups: *well-being, infrastructure and natural environment*. 
- Some of the areas discussed are access to health care, improving public transport and other alternatives to car transport in cities, and responding to natural disasters. Reducing CO2 emissions was not discussed in detail.
- Some of the general areas requiring more developments are multi-objective modeling, modeling under uncertainty and integrating stakeholder behavior into models.
- To achieve good results, the authors call on researchers to engage more with stakeholders and focus more on solving relevant problems than publishing in journals. Additionally, the importance of interpretability of models and results is emphasized to improve the likelihood of implementation.
+**09.03.2025:** Based on the UN sustainable development goals (SDG), challenges and research opportunities for the transportation science community are presented. 
+The SDG are split into three groups: *well-being, infrastructure and natural environment*. 
+Some of the areas discussed are access to health care, improving public transport and other alternatives to car transport in cities, and responding to natural disasters. Reducing CO2 emissions was not discussed in detail.
+Some of the general areas requiring more developments are multi-objective modeling, modeling under uncertainty and integrating stakeholder behavior into models.
+To achieve good results, the authors call on researchers to engage more with stakeholders and focus more on solving relevant problems than publishing in journals. Additionally, the importance of interpretability of models and results is emphasized to improve the likelihood of implementation.
 
- While not being the focus of my current studies, transportation science is a very interesting area that is related to many of the mathematical fields I am interested in. Improving public transport in cities for example, feels like a more direct way of achieving a positive impact than many other potential directions I am currently considering. I also want to keep the calls to identifying relevant problems and not only focusing on interesting conceptual models in mind, because this might be a potential issue for me in the future.
- 
+While not being the focus of my current studies, transportation science is a very interesting area that is related to many of the mathematical fields I am interested in. Improving public transport in cities for example, feels like a more direct way of achieving a positive impact than many other potential directions I am currently considering. I also want to keep the calls to identifying relevant problems and not only focusing on interesting conceptual models in mind, because this might be a potential issue for me in the future.
+
+## 24. Community structure in social and biological networks. (2002)
+Girvan, M. & Newman, M. E. J.
+
+**10.03.2025:** The authors consider a common property of networks, namely community structure, which describes that groups of nodes have much more connections to nodes in their community than outside. 
+They propose a new way of detecting community structure.
+Unlike in hierarchical methods where community centers are detected, this method detects edges of communities by calculating the betweenness centrality of edges, iteratively removing the ones with the highest centrality.
+They show that this method works very well on computer-generated networks and real-world networks with known community strucutre.
+Then, they apply their method to a research network and a food web which detects plausible community structures.
+
+This is a nice application of using centrality measures. In the end, the authors hope that more efficient algorithms can be created and I am interested what algorithms exist today and if they are still based on this concept.
+
+
 
 # Papers
 
@@ -360,6 +372,7 @@ While not being very relevant to my current studies, it never hurts reading up o
 21. Baer, S. M., Erneux, T. & Rinzel, J. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. _ResearchGate_ (1989) doi:[10.1137/0149003](https://doi.org/10.1137/0149003).**18 pages**
 22. Einstein, A. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. _Annalen der Physik_ **322**, 549–560 (1905). **12 pages**
 17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
+28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
 
 **Unread**
 
@@ -370,7 +383,6 @@ While not being very relevant to my current studies, it never hurts reading up o
 21. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
 22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
-28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
 10. Lorenz, E. N. Deterministic Nonperiodic Flow. _Journal of the Atmospheric Sciences_ **20**, 130–141 (1963).
 11. Tipping elements in the Earth’s climate system. [https://www.pnas.org/doi/10.1073/pnas.0705414105](https://www.pnas.org/doi/10.1073/pnas.0705414105) doi:[10.1073/pnas.0705414105](https://doi.org/10.1073/pnas.0705414105). **8 pages**
 12. Baker, J. A. _et al._ Continued Atlantic overturning circulation even under climate extremes. _Nature_ **638**, 987–994 (2025). **21 pages**
