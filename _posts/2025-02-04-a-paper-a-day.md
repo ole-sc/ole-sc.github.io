@@ -353,7 +353,7 @@ The equation is given by $$z(j+1) = p_1 (z(j)^n)^{1/m} + p_2$$.
 As the function $$(\cdot)^{1/m}$$ is multi-valued, multiple outputs are generated at each timestep and only the principle value will be used to calculate the next step.
 For a couple of smaller value combinations of $$m$$ and $$n$$ fixed points, their stability, sufficient conditions for chaotic behavior and exact values of Lyapunov exponents are calculated.
 Then, bifurcation diagrams and attractors are plotted for various parameters and various metrics shown that indicate highly chaotic trajectories.
-It is shown that these maps allow the creation of random number sequences and show that their method has many advantages over previous chaos-based random number geerators such as theoretical tractability, computational efficiency and large chaotic range.
+It is shown that these maps allow the creation of random number sequences and show that their method has many advantages over previous chaos-based random number generators such as theoretical tractability, computational efficiency and large chaotic range.
 
 I am still searching for a way to combine my complex analysis background with nonlinear dynamics and while this paper did not entirely do that, it showed how this knowledge might be useful in this area and contains some references to further reading.
 Additionally, some very nice looking fractals are in this paper, that I might recreate in the future.
