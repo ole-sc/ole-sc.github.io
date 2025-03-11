@@ -345,6 +345,21 @@ Then, they apply their method to a research network and a food web which detects
 
 This is a nice application of using centrality measures. In the end, the authors hope that more efficient algorithms can be created and I am interested what algorithms exist today and if they are still based on this concept.
 
+## 25.  Multi-Valued Model for Generating Complex Chaos and Fractals. (2024).
+Zhang, Y., Hua, Z., Bao, H. & Huang, H.
+
+**11.03.2025:** A simple method for generating chaotic 1D complex-valued maps is presented. 
+The equation is given by $$z(j+1) = p_1 (z(j)^n)^{1/m} + p_2$$. 
+As the function $$(\cdot)^{1/m}$$ is multi-valued, multiple outputs are generated at each timestep and only the principle value will be used to calculate the next step.
+For a couple of smaller value combinations of $$m$$ and $$n$$ fixed points, their stability, sufficient conditions for chaotic behavior and exact values of Lyapunov exponents are calculated.
+Then, bifurcation diagrams and attractors are plotted for various parameters and various metrics shown that indicate highly chaotic trajectories.
+It is shown that these maps allow the creation of random number sequences and show that their method has many advantages over previous chaos-based random number geerators such as theoretical tractability, computational efficiency and large chaotic range.
+
+I am still searching for a way to combine my complex analysis background with nonlinear dynamics and while this paper did not entirely do that, it showed how this knowledge might be useful in this area and contains some references to further reading.
+Additionally, some very nice looking fractals are in this paper, that I might recreate in the future.
+
+
+
 
 
 # Papers
@@ -373,13 +388,13 @@ This is a nice application of using centrality measures. In the end, the authors
 22. Einstein, A. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. _Annalen der Physik_ **322**, 549–560 (1905). **12 pages**
 17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
 28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
-
+20. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
 **Unread**
 
 
 18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
 19. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
-20. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
+
 21. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
 22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
