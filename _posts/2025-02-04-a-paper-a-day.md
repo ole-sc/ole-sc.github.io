@@ -358,7 +358,18 @@ It is shown that these maps allow the creation of random number sequences and sh
 I am still searching for a way to combine my complex analysis background with nonlinear dynamics and while this paper did not entirely do that, it showed how this knowledge might be useful in this area and contains some references to further reading.
 Additionally, some very nice looking fractals are in this paper, that I might recreate in the future.
 
+## 26.  Maps of random walks on complex networks reveal community structure. (2008)
+Rosvall, M. & Bergstrom, C. T.
 
+**12.03.2025:** Simplifying complex networks creates a trade-off between omitting details and keeping important information.
+The amount of information needed to describe a random walk on the network can be reduced by using a 2-scale structure: describing which community the walker is in and then what node the walker occupies in that community.
+The authors suggest defining communities such that the information needed to describe random walks on the network is minimized and develop an algorithm that approximatly minimizes this.
+The method is compared to a modularity approach, where communities are chosen such as to maximize the inter-community weights and minimize intra-community weights and it is argued that this represents two different ways of understanding networks: the authors approach views the essence of a network as its flows, while the modularity approach views it as the topological properties of the links.
+Lastly, community structure of cross-journal citations is visualized revealing some interesting insights on the state of science at their time.
+
+Obviously, it would be cool to see a current map of community structure in science based on the same aproach to see what has changed. 
+The implementation details were outsourced to the supplementary material so I don't really know what they did.
+I really liked this paper because it communicated their insights really well.
 
 
 
@@ -389,7 +400,7 @@ Additionally, some very nice looking fractals are in this paper, that I might re
 17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
 28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
 20. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
-
+1. Rosvall, M. & Bergstrom, C. T. Maps of random walks on complex networks reveal community structure. Proceedings of the National Academy of Sciences 105, 1118–1123 (2008).
 **Unread**
 
 18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
@@ -401,3 +412,4 @@ Additionally, some very nice looking fractals are in this paper, that I might re
 10. Lorenz, E. N. Deterministic Nonperiodic Flow. _Journal of the Atmospheric Sciences_ **20**, 130–141 (1963).
 11. Tipping elements in the Earth’s climate system. [https://www.pnas.org/doi/10.1073/pnas.0705414105](https://www.pnas.org/doi/10.1073/pnas.0705414105) doi:[10.1073/pnas.0705414105](https://doi.org/10.1073/pnas.0705414105). **8 pages**
 12. Baker, J. A. _et al._ Continued Atlantic overturning circulation even under climate extremes. _Nature_ **638**, 987–994 (2025). **21 pages**
+
