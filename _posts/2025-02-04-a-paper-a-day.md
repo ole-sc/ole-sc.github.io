@@ -371,6 +371,14 @@ Obviously, it would be cool to see a current map of community structure in scien
 The implementation details were outsourced to the supplementary material so I don't really know what they did.
 I really liked this paper because it communicated their insights really well.
 
+## 27.  Finding knowledge paths among scientific disciplines. (2014)
+Yan, E.
+
+**13.03.2025:** Citation counts between different scientific fields based on the subject classification of the Journal Citation Reports are analysed to analyse the knowledge flow among fields.
+Directed shortest paths between disciplines were created where the edges are weighted based on the number of citations from one discipline to another. 
+This is used to study how much disciplines cite each other and construct maps of knowledge flow between fields. For example, it is found that economics does not cite other fields very much and that knowledge from physics-, chemistry- and biomedicince-related fields can be accessed more easily than other fields.
+
+I think that the way knowledge flow is studied here might have some methodological issues that muddy the strength of the results. I do like the knowledge maps though and they show mostly intuitive results.
 
 
 # Papers
@@ -401,6 +409,8 @@ I really liked this paper because it communicated their insights really well.
 28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
 20. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
 1. Rosvall, M. & Bergstrom, C. T. Maps of random walks on complex networks reveal community structure. Proceedings of the National Academy of Sciences 105, 1118–1123 (2008).
+19. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
+
 **Unread**
 
 18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
