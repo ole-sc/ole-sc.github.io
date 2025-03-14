@@ -380,6 +380,18 @@ This is used to study how much disciplines cite each other and construct maps of
 
 I think that the way knowledge flow is studied here might have some methodological issues that muddy the strength of the results. I do like the knowledge maps though and they show mostly intuitive results.
 
+## 28. Death and revival of chaos. (2016)
+Kaszás, B., Feudel, U. & Tél, T. 
+
+**14.03.2025:** The effects on chaotic behaviour under varying parameters is studied in this paper.
+Snapshot attractors of a driven pendulum with exponentially decaying driving are shown and it is found that chaotic behaviour exists even when the driving force is very low, i.e. for parameter values where no chaos exists in the frozen system.
+While no chaos exists, the dynamics is qualitatively similar to chaotic saddles existing for larger forcings.
+The variability of trajectories over time is measured using the standard deviation of the angular velocities at snapshots and depending on the time-scale switching-off of the foring compared to the dissipative time-scale of the system, the speed at which variability decreases behaves differently.
+The switching-on process is also briefly discussed, showing that chaoti behavior now takes longer to develop.
+
+I think that this paper has some very interesting insights into the dynamics of non-autonomous systems but for my own future research I think that I would like to approach things a bit more mathematically, rather than the very qualitative view taken here because that, while potentially being more difficult, would likely give more concrete results.
+
+
 
 # Papers
 
@@ -405,11 +417,12 @@ I think that the way knowledge flow is studied here might have some methodologic
 20. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
 21. Baer, S. M., Erneux, T. & Rinzel, J. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. _ResearchGate_ (1989) doi:[10.1137/0149003](https://doi.org/10.1137/0149003).**18 pages**
 22. Einstein, A. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. _Annalen der Physik_ **322**, 549–560 (1905). **12 pages**
-17. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
-28. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
-20. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
-1. Rosvall, M. & Bergstrom, C. T. Maps of random walks on complex networks reveal community structure. Proceedings of the National Academy of Sciences 105, 1118–1123 (2008).
-19. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
+23. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
+24. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
+25. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
+26. Rosvall, M. & Bergstrom, C. T. Maps of random walks on complex networks reveal community structure. Proceedings of the National Academy of Sciences 105, 1118–1123 (2008).
+27. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
+28. Kaszás, B., Feudel, U. & Tél, T. Death and revival of chaos. _Phys. Rev. E_ **94**, 062221 (2016). **10 pages**
 
 **Unread**
 
