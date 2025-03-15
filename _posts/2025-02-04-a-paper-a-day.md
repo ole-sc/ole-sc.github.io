@@ -391,6 +391,16 @@ The switching-on process is also briefly discussed, showing that chaoti behavior
 
 I think that this paper has some very interesting insights into the dynamics of non-autonomous systems but for my own future research I think that I would like to approach things a bit more mathematically, rather than the very qualitative view taken here because that, while potentially being more difficult, would likely give more concrete results.
 
+## 29. Tipping phenomena in typical dynamical systems subjected to parameter drift. (2019)
+Kaszás, B., Feudel, U. & Tél, T. 
+
+**15.03.2025:** The same system as in the previous paper is studied, but now with a piece-wise linear drift. 
+Here, starting from a parameter value with one globally stable attractor, scenario-dependent basins of attraction are calculated, which describe which attractor is reached after ramping, dependent on the ramping times and pre/post ramping times. 
+Different parameter endpoints are considered and the tipping probability, describing the inability of certain starting conditions to track their pre-ramping attractor.
+It can be seen that tipping probability depends both on ramping and pre-ramping time.
+
+Some of their counterintuitive results were explained in a satisfying way. 
+The system is introduced as paradigmatic, but I have not heard of it before, and I would like to see how some other systems would behave.
 
 
 # Papers
@@ -423,7 +433,7 @@ I think that this paper has some very interesting insights into the dynamics of 
 26. Rosvall, M. & Bergstrom, C. T. Maps of random walks on complex networks reveal community structure. Proceedings of the National Academy of Sciences 105, 1118–1123 (2008).
 27. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
 28. Kaszás, B., Feudel, U. & Tél, T. Death and revival of chaos. _Phys. Rev. E_ **94**, 062221 (2016). **10 pages**
-
+29. Kaszás, B., Feudel, U. & Tél, T. Tipping phenomena in typical dynamical systems subjected to parameter drift. _Sci Rep_ **9**, 8654 (2019). **12 pages**
 **Unread**
 
 18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
