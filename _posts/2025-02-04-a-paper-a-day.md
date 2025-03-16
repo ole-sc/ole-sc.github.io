@@ -402,6 +402,15 @@ It can be seen that tipping probability depends both on ramping and pre-ramping 
 Some of their counterintuitive results were explained in a satisfying way. 
 The system is introduced as paradigmatic, but I have not heard of it before, and I would like to see how some other systems would behave.
 
+## 30. Chaos: From theory to applications for the 80th birthday of Otto E. Rössler. (2021).
+Letellier, C., Olsen, L. F. & Mangiarotti, S. 
+
+**16.03.2025:** For the last paper, I read an introduction to a focus issue of the Chaos journal, which gave an overview of the important systems, theorems and researchers related to chaos theory. 
+The three components of the paradigm of chaos theory are explained: A set of principles and well-defined concepts, a set of benchmark system like the Lorenz, Rössler, Duffing systems and many more and some recognizable pictures, such as the butterfly effect, the bifurcation diagram of the chaotic map, communicating the ideas to a wider audience.
+Then, the papers in the issue are presented and some of the important questions that with them. Among them are studies of control and synchronization in networks, global modeling techniques and chaos in chemical reactions.
+
+This was a little bit different from the other papers I read, but it gave a great overview of many of the important papers in chaos theory, containing important system and theoretical results. 
+It will likely serve as a good reference in the future.
 
 # Papers
 
@@ -434,12 +443,11 @@ The system is introduced as paradigmatic, but I have not heard of it before, and
 27. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
 28. Kaszás, B., Feudel, U. & Tél, T. Death and revival of chaos. _Phys. Rev. E_ **94**, 062221 (2016). **10 pages**
 29. Kaszás, B., Feudel, U. & Tél, T. Tipping phenomena in typical dynamical systems subjected to parameter drift. _Sci Rep_ **9**, 8654 (2019). **12 pages**
+30. Letellier, C., Olsen, L. F. & Mangiarotti, S. Chaos: From theory to applications for the 80th birthday of Otto E. Rössler. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **31**, 060402 (2021). **9 pages**
+
 **Unread**
 
 18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
-19. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
-
-21. Schneider, T. D. Information Theory Primer. [https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/www.lecb.ncifcrf.gov/~toms/paper/primer/primer.pdf) (2005).**14 pages**
 22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
 23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
 10. Lorenz, E. N. Deterministic Nonperiodic Flow. _Journal of the Atmospheric Sciences_ **20**, 130–141 (1963).
