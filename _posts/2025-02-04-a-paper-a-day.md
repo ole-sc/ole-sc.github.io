@@ -36,6 +36,13 @@ As you will see, most of the papers listed below will be related to the topics j
 
 A list of all papers can be found at the bottom of the page.
 
+# Project Recap
+I have read 30 papers mostly related to nonlinear dynamics and network science but also some survey papers related to other fields.
+I believe that I have gained an overview of the foundations of nonlinear dynamics and some of the current open problems. 
+Additionally, I have seen many areas where nonlinear dynamics can be applied and some interesting directions like agent-based modeling, if I ever get bored of it.
+I also learned how to read papers efficiently, established a workflow for it and got some ideas on how to improve it and I created a nice workflow for publishing things on this website.
+I have a bunch of papers that I would like to read still, and I will set myself the goal of reading at least 1 paper per week, now that I finished this project.
+
 # Summaries
 ## 1. Modeling Nonlinear Dynamics and Chaos: A Review (2009)
 Aguirre, L. A. & Letellier, C.
