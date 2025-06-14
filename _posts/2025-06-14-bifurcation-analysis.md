@@ -14,6 +14,17 @@ So far, I am planning to write one post on bifurcation analysis and one on non-a
 
 ## Bifurcation Analysis
 We begin with classical bifurcation analysis of autonomous ODEs. I will not write this as a tutorial, but rather as a description of the analysis I am applying to the particular system I am studying.
-The system is a three-species food chain model that exhibits chaos
+The system is a three-species food chain model that exhibits chaos [1]
+$$
+\begin{split}
+    \dot{u} &= u\cdot (1-\frac{u}{K}) - \frac{\alpha_1 u v}{1 + \beta_1 u} \\
+    \dot{v} &= \frac{\alpha_1 uv }{1 + \beta_1 u} - d_vv - \frac{\alpha_2 vw }{1 + \beta_2 v}\\
+    \dot{w} &= \frac{\alpha_2 vw }{1 + \beta_2 v} - d_ww
+    \label{eq:FC}
+\end{split}
+$$
 
-[@alexandrovNonlinearClimateDynamics2021a]
+
+## Bibliography
+- 1. Hastings, A. & Powell, T. Chaos in a Three‐Species Food Chain. Ecology 72, 896–903 (1991).
+
