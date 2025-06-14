@@ -25,6 +25,15 @@ $$\\
 \end{split}
 \\$$
 
+The equilibria of this system are
+$$\\
+\begin{align}
+S_0 &= (0,0,0)\\ 
+S_1 &= (K, 0,0) \\
+S_2 &=(\frac{d_v}{\alpha_1 + \beta_1 d_v}, \frac{1}{\alpha_1}(1-\frac{d_v}{\beta_1(\alpha_1 + \beta_1 d_v)})(1+\beta_1 \frac{d_v}{\alpha_1 + \beta_1 d_v}), 0)\\
+S_3 &= \text{TODO}
+\end{align}
+\\$$
 
 ## Bibliography
 1. Hastings, A. & Powell, T. Chaos in a Three‐Species Food Chain. Ecology 72, 896–903 (1991).
