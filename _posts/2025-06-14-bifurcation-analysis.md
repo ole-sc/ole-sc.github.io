@@ -1,7 +1,6 @@
 ---
 title: 'Master Thesis Series: Bifurcation Analysis'
 date: 2025-06-14
-bibliography: thesisbib.bib
 permalink: /posts/2025/06/bifurcation-analysis
 tags:
   - blog
@@ -25,15 +24,21 @@ $$\\
 \end{split}
 \\$$
 
-The equilibria of this system are
-$$\\
+We first calculate the equilibria of this system. There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and a so far unknown number of coexistence equilibria.
+$$
 \begin{align}
 S_0 &= (0,0,0)\\ 
 S_1 &= (K, 0,0) \\
-S_2 &=(\frac{d_v}{\alpha_1 + \beta_1 d_v}, \frac{1}{\alpha_1}(1-\frac{d_v}{\beta_1(\alpha_1 + \beta_1 d_v)})(1+\beta_1 \frac{d_v}{\alpha_1 + \beta_1 d_v}), 0)\\
+S_2 &=\left(\frac{d_v}{\alpha_1 + \beta_1 d_v}, \frac{1}{\alpha_1}\left(1-\frac{d_v}{K(\alpha_1 + \beta_1 d_v)}\right)\left(1+\beta_1 \frac{d_v}{\alpha_1 + \beta_1 d_v}\right), 0\right)\\
 S_3 &= \text{TODO}
 \end{align}
-\\$$
+$$
+The coexistence equilibrium (equilirbria) involve even more terms and might be calculated later.
+We could go on with a stability analysis, but since the equilibria involve some rather complicated terms, we turn to computational tools to do it for us. 
+This can be achieved in the following way: We use the julia package `ForwardDiff` to calculate the Jacobian of the ODE $$\ref{eq:FC}$$, we then plug in the equilibria and calculate the eigenvalues which allows us to programmatically classify the equilibria. 
+
+However, another reason why we are not going through the trouble of calculating the stability of the equilibria is that we are even more interested in the non-equilibrium attractors of the system. 
+
 
 ## Bibliography
 1. Hastings, A. & Powell, T. Chaos in a Three‐Species Food Chain. Ecology 72, 896–903 (1991).
