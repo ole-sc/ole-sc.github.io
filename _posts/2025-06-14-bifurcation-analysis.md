@@ -1,6 +1,7 @@
 ---
 title: 'Master Thesis Series: Bifurcation Analysis'
 date: 2025-06-14
+bibliography: thesisbib.bib
 permalink: /posts/2025/06/bifurcation-analysis
 tags:
   - blog
@@ -14,3 +15,5 @@ So far, I am planning to write one post on bifurcation analysis and one on non-a
 ## Bifurcation Analysis
 We begin with classical bifurcation analysis of autonomous ODEs. I will not write this as a tutorial, but rather as a description of the analysis I am applying to the particular system I am studying.
 The system is a three-species food chain model that exhibits chaos
+
+[@alexandrovNonlinearClimateDynamics2021a]
