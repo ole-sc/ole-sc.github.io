@@ -37,6 +37,7 @@ The manifolds are
 
 Equilibria are the points where du, dv, and dw are 0, so intersections of some of these manifolds. 
 Some of the equilibria are easy to calculate, while others are more complicated.
+**Coexistence equilibrium:**
 Let's focus on a coexistence equilibrium where all species survive, i.e. for an intersection of $$n_4, n_5, n_6$$.
 We $$n_6$$, we must have
 
@@ -50,23 +51,30 @@ and
 
 $$\varphi_w(u,v) = \frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v)$$.
 
-There are thus 2 potential coexistence equilibria, given by 
+There are thus 2 potential coexistence equilibria and we get all possible equilibria as 
 
 $$
 \begin{align}
-    S_4 & =(\varphi_{u+}(v_0),v_0, \varphi_{w}(\varphi_{u+}(v_0),v_0)) \\
-    S_5 & =(\varphi_{u-}(v_0),v_0, \varphi_{w}(\varphi_{u-}(v_0),v_0)) \\
+    S_0 &= (0,0,0)\\
+    S_1 &= (K, 0,0) \\
+    S_2 &=\left(\frac{d_v}{\alpha_1 + \beta_1 d_v}, \frac{1}{\alpha_1}\left(1-\frac{d_v}{K(\alpha_1 + \beta_1 d_v)}\right)\left(1+\beta_1 \frac{d_v}{\alpha_1 + \beta_1 d_v}\right), 0\right)\\
+    S_3 & =(\varphi_{u+}(v_0),v_0, \varphi_{w}(\varphi_{u+}(v_0),v_0)) \\
+    S_4 & =(\varphi_{u-}(v_0),v_0, \varphi_{w}(\varphi_{u-}(v_0),v_0)) \\
 \end{align}
 $$
 
-$$
+Calculating the equilibria will simplify the stability analysis which will be left to the computer.
+
+
+
+<!-- $$
 \begin{align}
 S_0 &= (0,0,0)\\ 
 S_1 &= (K, 0,0) \\
 S_2 &=\left(\frac{d_v}{\alpha_1 + \beta_1 d_v}, \frac{1}{\alpha_1}\left(1-\frac{d_v}{K(\alpha_1 + \beta_1 d_v)}\right)\left(1+\beta_1 \frac{d_v}{\alpha_1 + \beta_1 d_v}\right), 0\right)\\
 S_3 &= \text{TODO}
 \end{align}
-$$
+$$ -->
 
 The coexistence equilibrium (equilirbria) involve even more terms and might be calculated later.
 We could go on with a stability analysis, but since the equilibria involve some rather complicated terms, we turn to computational tools to do it for us. 
