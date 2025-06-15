@@ -23,8 +23,17 @@ $$\\
     \label{eq:FC}
 \end{split}
 \\$$
+One of the first things to do when dealing with any ODE is to identify equilibria and analyse their stability. 
 
-We first calculate the equilibria of this system. There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and a so far unknown number of coexistence equilibria.
+There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and a so far unknown number of coexistence equilibria (probably one). This calculation is simplified by first calculating the nullclines of the system, which are defined by the zero-manifold of the components.
+The manifolds are
+1. $$n_1=\{(u,v,w)\in \mathbb{R} | u=0 \}$$
+2. $$n_2=\{(u,v,w)\in \mathbb{R} | v=0 \}$$
+3. $$n_3=\{(u,v,w)\in \mathbb{R} | w=0 \}$$
+1. $$n_4=\{(u,v,w)\in \mathbb{R} | v=\frac{1}{\alpha_1}(1-\frac{u}{K})(1+\beta_1u)\}$$
+1. $$n_5=\{(u,v,w)\in \mathbb{R} | v=\frac{d_w}{\alpha_2-\beta_2 d_w} \}$$
+1. $$n_6=\{(u,v,w)\in \mathbb{R} | w=\frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v) \}$$
+
 $$
 \begin{align}
 S_0 &= (0,0,0)\\ 
@@ -33,6 +42,7 @@ S_2 &=\left(\frac{d_v}{\alpha_1 + \beta_1 d_v}, \frac{1}{\alpha_1}\left(1-\frac{
 S_3 &= \text{TODO}
 \end{align}
 $$
+
 The coexistence equilibrium (equilirbria) involve even more terms and might be calculated later.
 We could go on with a stability analysis, but since the equilibria involve some rather complicated terms, we turn to computational tools to do it for us. 
 This can be achieved in the following way: We use the julia package `ForwardDiff` to calculate the Jacobian of the ODE $$\ref{eq:FC}$$, we then plug in the equilibria and calculate the eigenvalues which allows us to programmatically classify the equilibria. 
