@@ -39,14 +39,22 @@ Equilibria are the points where du, dv, and dw are 0, so intersections of some o
 Some of the equilibria are easy to calculate, while others are more complicated.
 Let's focus on a coexistence equilibrium where all species survive, i.e. for an intersection of $$n_4, n_5, n_6$$.
 We clearly must have 
-$$v=\frac{d_w}{\alpha_2-\beta_2 d_w}.$$
+$$v_0=\frac{d_w}{\alpha_2-\beta_2 d_w}.$$
 
 We now write 
 
-$$\phi_u(v)  = \frac{K}{2}-\frac{1}{2\beta_1} \plusminus \frac{K}{2\beta_1}\sqrt{(\beta_1+\frac{1}{K})^2 -\frac{4\beta_1 \alpha_1}{K}v}$$.
+$$\phi_{u\plusminus}(v)  = \frac{K}{2}-\frac{1}{2\beta_1} \plusminus \frac{K}{2\beta_1}\sqrt{(\beta_1+\frac{1}{K})^2 -\frac{4\beta_1 \alpha_1}{K}v}$$.
 
 and 
 $$\phi_w(u,v) = \frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v)$$.
+
+There are thus 2 potential coexistence equilibria, given by 
+$$
+\begin{align}
+    S_4 & =(\phi_{u+}(v_0),v_0, \phi_{w}(\phi_{u+}(v_0),v_0)) \\
+    S_5 & =(\phi_{u-}(v_0),v_0, \phi_{w}(\phi_{u-}(v_0),v_0)) \\
+\end{align}
+$$
 
 $$
 \begin{align}
