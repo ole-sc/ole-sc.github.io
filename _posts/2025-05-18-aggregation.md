@@ -7,7 +7,7 @@ tags:
   - research
 ---
 
-The world is full of beautiful and complex patterns. 
-There are many mathematical approaches to model and describe patterns and I recently learned about an interesting and counter-intuitive mechanism for generating patterns.
+<!-- The world is full of beautiful and complex patterns. 
+There are many mathematical approaches to model and describe patterns and I recently learned about an interesting and counter-intuitive mechanism for generating patterns. -->
 
-
+Coming soon...
