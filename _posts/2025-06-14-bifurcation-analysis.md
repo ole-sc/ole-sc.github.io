@@ -16,7 +16,6 @@ We begin with classical bifurcation analysis of autonomous ODEs. I will not writ
 
 The system is a three-species food chain model that exhibits chaos [1]
 $$
-\centering
 \begin{split}
     \dot{u} &= u\cdot (1-\frac{u}{K}) - \frac{\alpha_1 u v}{1 + \beta_1 u} \\
     \dot{v} &= \frac{\alpha_1 uv }{1 + \beta_1 u} - d_vv - \frac{\alpha_2 vw }{1 + \beta_2 v}\\
@@ -24,6 +23,7 @@ $$
     \label{eq:FC}
 \end{split}
 $$
+
 One of the first things to do when dealing with any ODE is to identify equilibria and analyse their stability. 
 
 There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and a so far unknown number of coexistence equilibria (probably one). This calculation is simplified by first calculating the nullclines of the system, which are defined by the zero-manifold of the components.
@@ -34,13 +34,20 @@ The manifolds are
 4. $$du=0 \rightarrow n_4=\{(u,v,w)\in \mathbb{R}^3 | v=\frac{1}{\alpha_1}(1-\frac{u}{K})(1+\beta_1u)\} \text{or} u = \frac{K}{2}-\frac{1-2\beta_1} \plusminus \frac{K}{2\beta_1}\sqrt{(\beta_1+\frac{1}{K})^2 -\frac{4\beta_1 \alpha_1}{K}v}$$
 5. $$dv=0 \rightarrow n_5=\{(u,v,w)\in \mathbb{R}^3 | w=\frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v) \}$$
 6. $$dw=0 \rightarrow n_6=\{(u,v,w)\in \mathbb{R}^3 | v=\frac{d_w}{\alpha_2-\beta_2 d_w} \}$$
+
 Equilibria are the points where du, dv, and dw are 0, so intersections of some of these manifolds. 
 Some of the equilibria are easy to calculate, while others are more complicated.
 Let's focus on a coexistence equilibrium where all species survive, i.e. for an intersection of $$n_4, n_5, n_6$$.
 We clearly must have 
 $$v=\frac{d_w}{\alpha_2-\beta_2 d_w}.$$
-Which means that
-$$u
+
+We now write 
+
+$$\phi_u(v)  = \frac{K}{2}-\frac{1-2\beta_1} \plusminus \frac{K}{2\beta_1}\sqrt{(\beta_1+\frac{1}{K})^2 -\frac{4\beta_1 \alpha_1}{K}v}$$.
+
+and 
+$$\phi_w(u,v) = \frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v)$$.
+
 $$
 \begin{align}
 S_0 &= (0,0,0)\\ 
