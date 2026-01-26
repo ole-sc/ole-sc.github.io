@@ -3,7 +3,7 @@ title: "Spatial Modeling Report"
 collection: portfolio
 category: manuscripts
 permalink: /portfolio/2026-01-26-spatial_modeling_report
-excerpt: 'This is a report from a module about spatial modeing that I took last year.'
+excerpt: 'This is a report from a module about spatial modeling that I took last year.'
 date: 2026-01-26
 # venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
