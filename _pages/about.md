@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,12 +9,12 @@ redirect_from:
  
 
 I am a masters student at the Carl von Ossietzky University in Oldenburg studying Environmental Modelling.
-Having a Bachelors degree in Mathematics from the University of Bonn, I am interested in mathematical methods for analysing real-world systems.
+My interests are in mathematical methods for analysing real-world systems and the philosophy of modeling.
 
-My mathematical interests are nonlinear dynamics, network science and statistics and all the related subjects.
-Applications I am interested in are climate science, ecology, energy grids, neural dynamics in the brain, urban models and many more. 
+Mathematical topics I am interested in are nonlinear dynamics including autonomous and nonautonomous ODEs, network science and statistics.
+Applied areas that I would like to explore are climate science, ecology, energy grids, neural dynamics in the brain, urban models and many more. 
 
+A small selection of reports from my masters degree can be seen in the Portfolio section.
 
 ### A Paper A Day
-A current project of mine is to read a paper each day for a month to get some more knowledge of the fields I am interested in and be able to select a relevant topic for my master's thesis. 
-You can find some more information about this project in the Blog Posts section.
+Last year, I challenged myself to read a paper each day for a month to decide what topic I should do for my master thesis. My reading list and thoughts can be seen in the Blog Posts section.
