@@ -1,8 +1,8 @@
 ---
 title: "Spatial Modeling Report"
-collection: portfolio
+collection: publications
 category: manuscripts
-permalink: /portfolio/2026-01-26-spatial_modeling_report
+permalink: /publications/2026-01-26-spatial_modeling_report
 excerpt: 'This is a report from a module about spatial modeing that I took last year.'
 date: 2026-01-26
 # venue: 'Journal 1'
