@@ -3,8 +3,8 @@ title: "Random Walks On Complex Networks"
 collection: portfolio
 category: manuscripts
 permalink: /portfolio/2026-01-31-random_walk_report
-excerpt: 'This is a report about small research project that I did last year.'
-date: 2026-01-26
+excerpt: 'This is a report I wrote for a small research project.'
+date: 2026-01-31
 # venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ole-sc.github.io/files/random_walks_report.pdf'
