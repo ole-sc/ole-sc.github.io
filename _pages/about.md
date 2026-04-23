@@ -18,3 +18,8 @@ A small selection of reports from my masters degree can be seen in the Portfolio
 
 ### A Paper A Day
 Last year, I challenged myself to read a paper each day for a month to decide what topic I should do for my master thesis. My reading list and thoughts can be seen in the Blog Posts section.
+
+
+### Lyapunov Exponents
+
+<img src='/images/lyapunov_periodicity_hub_inferno.png'>
