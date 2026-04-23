@@ -32,12 +32,12 @@ The manifolds are obtained by setting the individual terms of system \ref{eq:FC}
 
 $$
 \begin{align}
-1. \quad du&=0 \rightarrow n_1=\{(u,v,w)\in \mathbb{R}^3 | u=0 \}\\
-2. \quad dv&=0 \rightarrow n_2=\{(u,v,w)\in \mathbb{R}^3 | v=0 \}\\
-3. \quad dw&=0 \rightarrow n_3=\{(u,v,w)\in \mathbb{R}^3 | w=0 \}\\
-4. \quad du&=0 \rightarrow n_4=\left\{(u,v,w)\in \mathbb{R}^3 | v=\frac{1}{\alpha_1}\left(1-\frac{u}{K}\right)\left(1+\beta_1u\right) \text{ or } u = \frac{K}{2}-\frac{1}{2\beta_1} \pm \frac{K}{2\beta_1}\sqrt{\left(\beta_1+\frac{1}{K}\right)^2 -\frac{4\beta_1 \alpha_1}{K}v}\right\}\\
-5. \quad dv&=0 \rightarrow n_5=\{(u,v,w)\in \mathbb{R}^3 | w=\frac{1}{\alpha_2}\left(\frac{\alpha_2u}{1+\beta_1 u} -d_v\right)(1+\beta_2 v) \}\\
-6. \quad dw&=0 \rightarrow n_6=\left\{(u,v,w)\in \mathbb{R}^3 | v=\frac{d_w}{\alpha_2-\beta_2 d_w} \right\}\\
+1.& \quad du=0 \rightarrow n_1=\{(u,v,w)\in \mathbb{R}^3 | u=0 \}\\
+2.& \quad dv=0 \rightarrow n_2=\{(u,v,w)\in \mathbb{R}^3 | v=0 \}\\
+3.& \quad dw=0 \rightarrow n_3=\{(u,v,w)\in \mathbb{R}^3 | w=0 \}\\
+4.& \quad du=0 \rightarrow n_4=\left\{(u,v,w)\in \mathbb{R}^3 | v=\frac{1}{\alpha_1}\left(1-\frac{u}{K}\right)\left(1+\beta_1u\right) \text{ or } u = \frac{K}{2}-\frac{1}{2\beta_1} \pm \frac{K}{2\beta_1}\sqrt{\left(\beta_1+\frac{1}{K}\right)^2 -\frac{4\beta_1 \alpha_1}{K}v}\right\}\\
+5.& \quad dv=0 \rightarrow n_5=\left\{(u,v,w)\in \mathbb{R}^3 | w=\frac{1}{\alpha_2}\left(\frac{\alpha_2u}{1+\beta_1 u} -d_v\right)(1+\beta_2 v) \right\}\\
+6.& \quad dw=0 \rightarrow n_6=\left\{(u,v,w)\in \mathbb{R}^3 | v=\frac{d_w}{\alpha_2-\beta_2 d_w} \right\}\\
 \end{align}
 $$
 
@@ -45,21 +45,26 @@ Equilibria are the points where du, dv, and dw are 0, so intersections of three 
 Some of the equilibria are easy to calculate, while others are more complicated.
 
 **Coexistence equilibrium:**
-Let's focus on a coexistence equilibrium where all species survive, i.e. for an intersection of $$n_4, n_5, n_6$$.
+Let's focus on a coexistence equilibrium where all species survive, i.e. for an intersection of $$n_4, n_5$$, and $$ n_6$$.
 This is the most complicated case and all other equilibria are easier to calculate.
-With $$n_6$$, we must have
+
+The nullcline $$n_6$$ determines a value for $$v$$, as we must have
 
 $$v_0=\frac{d_w}{\alpha_2-\beta_2 d_w}.$$
 
-We now write 
+From $$n_4$$, we get
 
 $$\varphi_{u\pm}(v)  = \frac{K}{2}-\frac{1}{2\beta_1} \pm \frac{K}{2\beta_1}\sqrt{(\beta_1+\frac{1}{K})^2 -\frac{4\beta_1 \alpha_1}{K}v}$$
 
-and 
+and $$n_5$$ gives
 
 $$\varphi_w(u,v) = \frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v).$$
 
-There are thus 2 potential coexistence equilibria and we get all possible equilibria as 
+There are thus 2 potential coexistence equilibria.
+These are obtained by plugging $$v_0$$ into $$\varphi_{u\pm}(v)$$, giving two possible values for $$u$$, $$u_+$$ and $$u_-$$.
+Finally, the value of $$w$$ can be calculated by plugging $$v_0$$ and $$u_+$$ or $$u_-$$ into $$\varphi_w(u,v) $$.
+
+All equilibria of the system given by
 
 $$
 \begin{align}
@@ -71,24 +76,12 @@ $$
 \end{align}
 $$
 
-Calculating the equilibria simplifies the stability analysis which will be left to the computer.
+It is possible to show that these are indeed all possible equilibria of the system (for which $$u,v$$ and $$w$$ are all non-negative).
+Typically, one of the two coexistence equilibria $$S_3$$ and $$S_4$$ also has at least one negative abundance, making it unphysical.
 
-
-
-<!-- $$
-\begin{align}
-S_0 &= (0,0,0)\\ 
-S_1 &= (K, 0,0) \\
-S_2 &=\left(\frac{d_v}{\alpha_1 + \beta_1 d_v}, \frac{1}{\alpha_1}\left(1-\frac{d_v}{K(\alpha_1 + \beta_1 d_v)}\right)\left(1+\beta_1 \frac{d_v}{\alpha_1 + \beta_1 d_v}\right), 0\right)\\
-S_3 &= \text{TODO}
-\end{align}
-$$ -->
-
-The coexistence equilibrium (equilirbria) involve even more terms and might be calculated later.
-We could go on with a stability analysis, but since the equilibria involve some rather complicated terms, we turn to computational tools to do it for us. 
-This can be achieved in the following way: We use the julia package `ForwardDiff` to calculate the Jacobian of the ODE $$\ref{eq:FC}$$, we then plug in the equilibria and calculate the eigenvalues which allows us to programmatically classify the equilibria. 
-
-However, another reason why we are not going through the trouble of calculating the stability of the equilibria is that we are even more interested in the non-equilibrium attractors of the system. 
+The stability of the equilibria can be calculated by calculating the eigenvalues of the Jacobian of the system at the equilibria. 
+While this is straightforward in theory, it entails very tedious calculations with many terms and which is not very insightfull. 
+Instead, one can simply use a computer to find the eigenvalues of the Jacobian.
 
 
 ## Bibliography
