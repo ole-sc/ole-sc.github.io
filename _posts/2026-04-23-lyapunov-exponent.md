@@ -10,6 +10,13 @@ tags:
 As part of my master thesis, I calculated Lyapunov exponents of the food chain model [1].
 In this post, I will show some images and how to create similar images.
 
+More information will be added shortly.
+
+### Images
+
+<img src='/images/lyapunov_full_inferno3.png'>
+
+<img src='/images/lyapunov_periodicity_hub_inferno.png'>
 
 
 

@@ -14,10 +14,10 @@ My interests are in mathematical methods and the philosophy of modeling.
 A small selection of reports from my masters degree can be found in the Portfolio section.
 
 ### Master Thesis
-In my master thesis, I investigated rate-induced tipping in a food chain model. 
-The thesis will be added to my portfolio shortly.
+In my master thesis, I studied rate-induced tipping from a chaotic attractor in a three-species food chain model. 
+The thesis will be added to the portfolio section shortly.
 
-During my thesis, I created some beautiful images which show the Lyapunov exponents of the food chain model.
+While working on my thesis, I created some beautiful images, which show the Lyapunov exponents of the food chain model.
 
 <img src='/images/lyapunov_full_inferno3.png'>
 
