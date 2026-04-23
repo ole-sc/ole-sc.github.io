@@ -64,7 +64,7 @@ There are thus 2 potential coexistence equilibria.
 These are obtained by plugging $$v_0$$ into $$\varphi_{u\pm}(v)$$, giving two possible values for $$u$$, $$u_+$$ and $$u_-$$.
 Finally, the value of $$w$$ can be calculated by plugging $$v_0$$ and $$u_+$$ or $$u_-$$ into $$\varphi_w(u,v) $$.
 
-All equilibria of the system given by
+All equilibria of the system are
 
 $$
 \begin{align}
