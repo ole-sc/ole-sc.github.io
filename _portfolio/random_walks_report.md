@@ -3,7 +3,7 @@ title: "Random Walks On Complex Networks"
 collection: portfolio
 category: manuscripts
 permalink: /portfolio/2026-01-31-random_walk_report
-excerpt: 'This is a report I wrote for a small research project.'
+excerpt: 'This is a report I wrote for a small research project. Github link: https://github.com/ole-sc/spatial_modeling/tree/master/SpatialAgg'
 date: 2026-01-31
 # venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
