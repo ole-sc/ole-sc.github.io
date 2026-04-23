@@ -29,6 +29,7 @@ One of the first things to do when dealing with any ODE is to identify equilibri
 
 There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and two coexistence equilibria. This calculation is simplified by first calculating the nullclines of the system, which are defined by the zero-manifold of the components.
 The manifolds are obtained by setting the individual terms of system \ref{eq:FC} equal to zero.
+
 $$
 \begin{align}
 1. \quad du&=0 \rightarrow n_1=\{(u,v,w)\in \mathbb{R}^3 | u=0 \}\\
@@ -40,11 +41,12 @@ $$
 \end{align}
 $$
 
-Equilibria are the points where du, dv, and dw are 0, so intersections of some of these manifolds. 
+Equilibria are the points where du, dv, and dw are 0, so intersections of three nullclines for different terms of system \ref{eq:FC}. 
 Some of the equilibria are easy to calculate, while others are more complicated.
 
 **Coexistence equilibrium:**
 Let's focus on a coexistence equilibrium where all species survive, i.e. for an intersection of $$n_4, n_5, n_6$$.
+This is the most complicated case and all other equilibria are easier to calculate.
 With $$n_6$$, we must have
 
 $$v_0=\frac{d_w}{\alpha_2-\beta_2 d_w}.$$
