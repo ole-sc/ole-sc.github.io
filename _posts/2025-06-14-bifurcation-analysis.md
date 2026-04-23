@@ -1,5 +1,5 @@
 ---
-title: 'Master Thesis Series: Bifurcation Analysis'
+title: 'Master Thesis Series: Food Chain Model Equilibria'
 date: 2025-06-14
 permalink: /posts/2025/06/bifurcation-analysis
 tags:
@@ -7,14 +7,14 @@ tags:
   - thesis
 ---
 
-I will start a blog miniseries related to my master thesis. In this series, I want to write up early results and studies in an organized way so that I can use them as a template when writing the real thesis.
+In this mini-series about topics from my master thesis, I will present some calculations related to my master thesis that did not make into the final thesis.
 
-So far, I am planning to write one post on bifurcation analysis and one on non-autonomous ODEs. We will see if there are additional topics that come up.
+
 
 ## Bifurcation Analysis
-We begin with classical bifurcation analysis of autonomous ODEs. I will not write this as a tutorial, but rather as a description of the analysis I am applying to the particular system I am studying.
 
-The system is a three-species food chain model that exhibits chaos [1]
+In my thesis, I am studying a three-species food chain model that exhibits chaos, which was introduced by Hastings and Powell [1].
+Here, I present how the nullclines and all equilibria can be calculated in a slightly more complicated model.
 
 $$
 \begin{align}
@@ -27,15 +27,18 @@ $$
 
 One of the first things to do when dealing with any ODE is to identify equilibria and analyse their stability. 
 
-There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and a so far unknown number of coexistence equilibria (probably one). This calculation is simplified by first calculating the nullclines of the system, which are defined by the zero-manifold of the components.
-The manifolds are
-
-1. $$du=0 \rightarrow n_1=\{(u,v,w)\in \mathbb{R}^3 | u=0 \}$$
-2. $$dv=0 \rightarrow n_2=\{(u,v,w)\in \mathbb{R}^3 | v=0 \}$$
-3. $$dw=0 \rightarrow n_3=\{(u,v,w)\in \mathbb{R}^3 | w=0 \}$$
-4. $$du=0 \rightarrow n_4=\{(u,v,w)\in \mathbb{R}^3 | v=\frac{1}{\alpha_1}(1-\frac{u}{K})(1+\beta_1u) \text{ or } u = \frac{K}{2}-\frac{1}{2\beta_1} \pm \frac{K}{2\beta_1}\sqrt{(\beta_1+\frac{1}{K})^2 -\frac{4\beta_1 \alpha_1}{K}v}\}$$
-5. $$dv=0 \rightarrow n_5=\{(u,v,w)\in \mathbb{R}^3 | w=\frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v) \}$$
-6. $$dw=0 \rightarrow n_6=\{(u,v,w)\in \mathbb{R}^3 | v=\frac{d_w}{\alpha_2-\beta_2 d_w} \}$$
+There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and two coexistence equilibria. This calculation is simplified by first calculating the nullclines of the system, which are defined by the zero-manifold of the components.
+The manifolds are obtained by setting the individual terms of system \ref{eq:FC} equal to zero.
+$$
+\begin{align}
+1. \quad du&=0 \rightarrow n_1=\{(u,v,w)\in \mathbb{R}^3 | u=0 \}\\
+2. \quad dv&=0 \rightarrow n_2=\{(u,v,w)\in \mathbb{R}^3 | v=0 \}\\
+3. \quad dw&=0 \rightarrow n_3=\{(u,v,w)\in \mathbb{R}^3 | w=0 \}\\
+4. \quad du&=0 \rightarrow n_4=\left\{(u,v,w)\in \mathbb{R}^3 | v=\frac{1}{\alpha_1}\left(1-\frac{u}{K}\right)\left(1+\beta_1u\right) \text{ or } u = \frac{K}{2}-\frac{1}{2\beta_1} \pm \frac{K}{2\beta_1}\sqrt{\left(\beta_1+\frac{1}{K}\right)^2 -\frac{4\beta_1 \alpha_1}{K}v}\right\}\\
+5. \quad dv&=0 \rightarrow n_5=\{(u,v,w)\in \mathbb{R}^3 | w=\frac{1}{\alpha_2}\left(\frac{\alpha_2u}{1+\beta_1 u} -d_v\right)(1+\beta_2 v) \}\\
+6. \quad dw&=0 \rightarrow n_6=\left\{(u,v,w)\in \mathbb{R}^3 | v=\frac{d_w}{\alpha_2-\beta_2 d_w} \right\}\\
+\end{align}
+$$
 
 Equilibria are the points where du, dv, and dw are 0, so intersections of some of these manifolds. 
 Some of the equilibria are easy to calculate, while others are more complicated.
