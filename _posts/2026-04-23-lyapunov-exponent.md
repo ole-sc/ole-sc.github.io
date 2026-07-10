@@ -1,5 +1,5 @@
 ---
-title: 'Master Thesis Series: Lyapunov Exponent of the Food Chain Mode'
+title: 'Master Thesis Series: Lyapunov Exponent of the Food Chain Model'
 date: 2026-04-23
 permalink: /posts/2026/04/lyapunov-exponents
 tags:
@@ -7,10 +7,7 @@ tags:
   - thesis
 ---
 
-As part of my master thesis, I calculated Lyapunov exponents of the food chain model [1].
-In this post, I will show some images and how to create similar images.
-
-More information will be added shortly.
+As part of my master thesis, I calculated Lyapunov exponents of a three-species food chain model with chaotic dynamics[1].
 
 ### Images
 

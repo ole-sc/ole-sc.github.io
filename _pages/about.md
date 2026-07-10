@@ -18,6 +18,7 @@ In my master thesis, I studied rate-induced tipping from a chaotic attractor in 
 The thesis will be added to the portfolio section shortly.
 
 While working on my thesis, I created some beautiful images, which show the Lyapunov exponents of the food chain model.
+More information can be found in the Blog Posts section.
 
 <img src='/images/lyapunov_full_inferno3.png'>
 
