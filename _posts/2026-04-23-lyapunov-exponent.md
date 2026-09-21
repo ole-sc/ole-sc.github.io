@@ -42,9 +42,14 @@ The dark blue parts of the state space show where the coexistence attractor is p
 Finally, the greenish-yellow parts show chaotic dynamics. 
 A fascinating aspect of chaotic systems is the highly complicated structure that the largest Lyapunov exponents show.
 
+There are a lot of interesting aspects to explore, for example the shrimp-shaped periodic parameter regions, the existence of a periodicity hub and regions with multiple coexistence attractors, which I go into more in my master's thesis.
+As far as I know, my investigation is the first to show the shrimp-shaped periodic parameter regions in the food chain model.
+However, instead of focusing on the mathematical properties, I want to highlight the beauty of these structures here.
+
+In the images below, I removed all axes and colorbars and changed the colormap. Additionally, I changed the figure to show the largest non-zero Lyapunov exponent, which reveals some additional structure in the periodic parameter regions. 
+With some finishing touches, we get images that are truly beautiful.
 
 
-### Images
 
 <img src='/images/lyapunov/lyapunov_full_inferno3.png'>
 
