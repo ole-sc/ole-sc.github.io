@@ -56,7 +56,9 @@ Largest non-zero Lyapunov exponents of the food chain model.
 A zoomed-in section showing a 'periodicity hub'.
 <img src='/images/lyapunov/lyapunov_periodicity_hub_inferno.png'>
 
-Another very nice figure that was part of my master thesis can be seen below and shows another zoomed-in section of the largest non-zero Lyapunov exponents.
+Another very nice figure that was part of my master thesis can be seen below.
+It shows another zoomed-in section of the largest non-zero Lyapunov exponents and the approximate location of regions with multiple coexistence attractors where the two red lines meet.
+The red lines show period-doubling bifurcations.
 
 <img src='/images/lyapunov/thesis_bistability_main.png'>
 
