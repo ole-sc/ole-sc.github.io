@@ -7,9 +7,7 @@ tags:
   - thesis
 ---
 
-In this mini-series about topics from my master thesis, I will present some calculations related to my master thesis that did not make into the final thesis.
-
-
+In this mini-series about topics from my master thesis, I will present some calculations related to my master thesis that did not make into the final thesis. 
 
 ## Bifurcation Analysis
 
@@ -27,8 +25,8 @@ $$
 
 One of the first things to do when dealing with any ODE is to identify equilibria and analyse their stability. 
 
-There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and two coexistence equilibria. This calculation is simplified by first calculating the nullclines of the system, which are defined by the zero-manifold of the components.
-The manifolds are obtained by setting the individual terms of system \ref{eq:FC} equal to zero.
+There is one extinction equilibrium, one 1-species equilibrium, one 2-species equilibium and two coexistence equilibria. This calculation is simplified by first calculating the nullclines of the system, which are defined by the zero-manifolds of the components.
+The manifolds are obtained by setting the individual terms of the model equal to zero.
 
 $$
 \begin{align}
@@ -41,10 +39,10 @@ $$
 \end{align}
 $$
 
-Equilibria are the points where du, dv, and dw are 0, so intersections of three nullclines for different terms of system \ref{eq:FC}. 
+Equilibria are the points where du, dv, and dw are 0, so intersections of three nullclines for different terms of the model. 
 Some of the equilibria are easy to calculate, while others are more complicated.
 
-**Coexistence equilibrium:**
+#### Coexistence equilibrium:
 Let's focus on a coexistence equilibrium where all species survive, i.e. for an intersection of $$n_4, n_5$$, and $$ n_6$$.
 This is the most complicated case and all other equilibria are easier to calculate.
 
@@ -54,17 +52,19 @@ $$v_0=\frac{d_w}{\alpha_2-\beta_2 d_w}.$$
 
 From $$n_4$$, we get
 
-$$\varphi_{u\pm}(v)  = \frac{K}{2}-\frac{1}{2\beta_1} \pm \frac{K}{2\beta_1}\sqrt{(\beta_1+\frac{1}{K})^2 -\frac{4\beta_1 \alpha_1}{K}v}$$
+$$\varphi_{u\pm}(v)  = \frac{K}{2}-\frac{1}{2\beta_1} \pm \frac{K}{2\beta_1}\sqrt{\left(\beta_1+\frac{1}{K}\right)^2 -\frac{4\beta_1 \alpha_1}{K}v}$$
 
 and $$n_5$$ gives
 
-$$\varphi_w(u,v) = \frac{1}{\alpha_2}(\frac{\alpha_2u}{1+\beta_1 u} -d_v)(1+\beta_2 v).$$
+$$\varphi_w(u,v) = \frac{1}{\alpha_2}\left(\frac{\alpha_2u}{1+\beta_1 u} -d_v\right)(1+\beta_2 v).$$
 
 There are thus 2 potential coexistence equilibria.
 These are obtained by plugging $$v_0$$ into $$\varphi_{u\pm}(v)$$, giving two possible values for $$u$$, $$u_+$$ and $$u_-$$.
 Finally, the value of $$w$$ can be calculated by plugging $$v_0$$ and $$u_+$$ or $$u_-$$ into $$\varphi_w(u,v) $$.
 
-All equilibria of the system are
+
+#### Other Equilibria
+The other equilibria are easier to calculate and are just listed below.
 
 $$
 \begin{align}
