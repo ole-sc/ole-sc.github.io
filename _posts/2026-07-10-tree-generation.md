@@ -17,7 +17,7 @@ In this approach, a tree is made up of branches in multiple layers.
 So far, I only implemented 2D trees, but it would not be hard to extend this to 3D.
 A branch has a start point, an end point and a width.
 
-We start with a main branch, usually pointing straight upwards, which is considered to make up layer 1. 
+We start with a main branch, usually pointing straight upwards, which makes up layer 1. 
 
 We then recursively add new layers by adding new branches to each branch in the previous layer.
 For each layer, we define a rule for how to add the new branches.

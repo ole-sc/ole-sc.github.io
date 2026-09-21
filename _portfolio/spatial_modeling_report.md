@@ -4,7 +4,7 @@ collection: portfolio
 category: manuscripts
 permalink: /portfolio/2026-01-26-spatial_modeling_report
 excerpt: 'This is a report for a module about spatial modeling that I took last year. Github link: https://github.com/ole-sc/spatial_modeling/tree/master/SpatialAgg''
-date: 2026-01-26
+date: 2026-01-26 
 # venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ole-sc.github.io/files/spatial_modeling_report.pdf'
