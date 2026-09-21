@@ -50,13 +50,15 @@ In the images below, I removed all axes and colorbars and changed the colormap. 
 With some finishing touches, we get images that are truly beautiful.
 
 
-
+Largest non-zero Lyapunov exponents of the food chain model.
 <img src='/images/lyapunov/lyapunov_full_inferno3.png'>
 
+A zoomed-in section showing a 'periodicity hub'.
 <img src='/images/lyapunov/lyapunov_periodicity_hub_inferno.png'>
 
+Another very nice figure that was part of my master thesis can be seen below and shows another zoomed-in section of the largest non-zero Lyapunov exponents.
 
-
+<img src='/images/lyapunov/thesis_bistability_main.png'>
 
 ## Bibliography
 1. McCann, I. & Yodzis, P. *Biological Conditions for Chaos in a Three-Species Food Chain*. 1994. https://doi.org/10.2307/1939558.
