@@ -8,12 +8,11 @@ redirect_from:
 ---
  
 
-I am a masters student at the Carl von Ossietzky University in Oldenburg studying Environmental Modelling.
-My interests are in mathematical methods and the philosophy of modeling.
+I recently completed my master's degree in Environmental Modelling at the Carl von Ossietzky University Oldenburg.
+Complex systems, like weather systems, ocean currents, dryland ecosystems, savanna-forest ecosystems and many more are endlessly fascinating to me.
+I specialise in nonlinear dynamics with interests in statistics, network science, programming and the philosophy of modeling. 
 
 A small selection of reports from my masters degree can be found in the Portfolio section.
-
-This Website is somewhat a work in progress, 
 
 ### Master Thesis
 In my master thesis, I studied rate-induced tipping from a chaotic attractor in a three-species food chain model. 
