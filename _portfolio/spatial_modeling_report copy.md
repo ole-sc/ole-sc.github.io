@@ -2,7 +2,7 @@
 title: "Spatial Modeling Report"
 collection: portfolio
 category: manuscripts
-permalink: /portfolio/2026-01-26-spatial_modeling_report
+permalink: /portfolio/2026-01-26-spatial_modeling_report2
 excerpt: 'This is a report for a module about spatial modeling that I took last year. Github link: https://github.com/ole-sc/spatial_modeling/tree/master/SpatialAgg''
 date: 2026-01-26 
 # venue: 'Journal 1'
