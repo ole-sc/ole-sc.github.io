@@ -18,7 +18,7 @@ A small selection of reports from my masters degree can be found in the Portfoli
 In my master thesis, I studied rate-induced tipping from a chaotic attractor in a three-species food chain model. 
 The thesis will be added to the portfolio section once I submitted the related paper to a journal for publication. 
  
-While working on my thesis, I created some beautiful images, which show the Lyapunov exponents of the food chain model.
+While working on my thesis, I created some beautiful images, which show the Lyapunov exponents of the food chain model. More details and images can be found [here](https://ole-sc.github.io/posts/2026/04/lyapunov-exponents).
 
 <img src='/images/lyapunov/lyapunov_full_inferno3.png'>
 
