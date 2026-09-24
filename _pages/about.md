@@ -24,5 +24,5 @@ While working on my thesis, I created some beautiful images, which show the Lyap
 
 
 ### A Paper A Day
-Last year, I challenged myself to read a paper each day for a month to decide what topic I should do for my master thesis. My reading list and thoughts can be seen in the Blog Posts section.
+Last year, I challenged myself to read a paper each day for a month to decide what topic I should do for my master thesis. My reading list and thoughts can be found [here](https://ole-sc.github.io/posts/2025/02/a-paper-a-day).
 
