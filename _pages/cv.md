@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p><a href="/files/cvs/cv_english.pdf">Download CV (English)</a></p>
-<p><a href="/files/cvs/cv_signed_german.pdf">Download CV (German)</a></p>
+<p><a href="/files/cvs/cv_signed_deutsch.pdf">Download CV (German)</a></p>
 
 <!-- 
 ## German Version
