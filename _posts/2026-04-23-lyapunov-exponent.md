@@ -1,5 +1,5 @@
 ---
-title: 'Master Thesis Series: Lyapunov Exponent of the Food Chain Model'
+title: "Master's Thesis Series: Lyapunov Exponent of the Food Chain Model"
 date: 2026-04-23
 permalink: /posts/2026/04/lyapunov-exponents
 tags:

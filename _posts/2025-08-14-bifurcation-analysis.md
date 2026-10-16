@@ -1,5 +1,5 @@
 ---
-title: 'Master Thesis Series: Food Chain Model Equilibria'
+title: "Master's Thesis Series: Food Chain Model Equilibria"
 date: 2025-08-14
 permalink: /posts/2025/08/bifurcation-analysis
 tags:

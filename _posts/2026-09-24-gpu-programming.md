@@ -34,13 +34,13 @@ The mandelbrot set is an example of an iterated map, but there are many other op
 To this end, we consider the following iterated map:
 $$
 \begin{align}
-    x_{n+1} = a_1 + a_2 x_n + a_3 y_n + a_4 x_n^2 + a_5 y_n^2 + a_6 x_n y_n
-    y_{n+1} = b_1 + b_2 x_n + b_3 y_n + b_4 x_n^2 + b_5 y_n^2 + b_6 x_n y_n
+    x_{n+1} = a_1 + a_2 x_n + a_3 y_n + a_4 x_n^2 + a_5 y_n^2 + a_6 x_n y_n\\
+    y_{n+1} &= b_1 + b_2 x_n + b_3 y_n + b_4 x_n^2 + b_5 y_n^2 + b_6 x_n y_n
 \end{align}
 $$
 
 The Henon map has the parameters $$a_1=1, a_3=1, a_4=-1.4$$ and $$b_2=0.3$$ and all other parameters to zero. 
-As in the case of the Mandelbrot set, we iterate this map and determine whether it blows up or stays bounded. Each pixel represents a different initial condition in the $xy$-plane.
+As in the case of the Mandelbrot set, we iterate this map and determine whether it blows up or stays bounded. Each pixel represents a different initial condition in the $$xy$$-plane.
 In my implementation, it is possible to change the parameters interactively with the image being updated in real time. 
 This kind of problem lends itself very well to GPU computing, because the computation of each pixel is independent of the other pixels and not computationally expensive. Again, the program is based on a fragment shader, which are easy to use in godot.
 
@@ -67,6 +67,7 @@ Each boid, which stands for bird-like object, follows three simple rules:
 1. Avoid collisions with nearby boids
 2. Attemp to match the velocity of nearby boids
 3. Attempt to stay close to nearby flockmates
+
 Parameters control the radius of these interaction and the relative strength. The behaviour of the flock changes based on the parameters. 
 
 
