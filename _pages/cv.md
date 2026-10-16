@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<p><a href="/files/cvs/cv_english.pdf">Download English CV</a></p>
+<p><a href="/files/cvs/cv_english.pdf">Download CV (English)</a></p>
+<p><a href="/files/cvs/cv_signed_german.pdf">Download CV (German)</a></p>
 
 <!-- 
 ## German Version
