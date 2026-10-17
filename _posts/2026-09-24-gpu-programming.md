@@ -79,7 +79,7 @@ Below, you can see some screenshots of the simulation.
 
 [1] Reynolds CW. *Flocks, herds and schools: a distributed be-havioral model*. 1987.
 
-### Summary
+<!-- ### Summary
 
-I showed three interesting simulations that I created using GPUs. Much more could be said about the mathematical side of these examples, but I will stick to these examples from a numerical perspective right now. 
-In the future, I want to show some more simulations that I created, for example a slime-mould simulation or a visualisation of the Thomas attractor, but which require more work before they can be displayed properly.
+I showed three interesting simulations that I created using GPUs. Much more could be said about the mathematical side of these examples, but . 
+In the future, I want to show some more simulations that I created, for example a slime-mould simulation or a visualisation of the Thomas attractor, but which require more work before they can be displayed properly. -->
