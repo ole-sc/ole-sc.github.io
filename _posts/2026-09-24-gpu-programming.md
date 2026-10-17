@@ -34,7 +34,7 @@ The mandelbrot set is an example of an iterated map, but there are many other op
 To this end, we consider the following iterated map:
 $$
 \begin{align}
-    x_{n+1} = a_1 + a_2 x_n + a_3 y_n + a_4 x_n^2 + a_5 y_n^2 + a_6 x_n y_n\\
+    x_{n+1} &= a_1 + a_2 x_n + a_3 y_n + a_4 x_n^2 + a_5 y_n^2 + a_6 x_n y_n\\
     y_{n+1} &= b_1 + b_2 x_n + b_3 y_n + b_4 x_n^2 + b_5 y_n^2 + b_6 x_n y_n
 \end{align}
 $$
