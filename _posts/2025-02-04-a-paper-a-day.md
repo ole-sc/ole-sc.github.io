@@ -421,43 +421,43 @@ It will likely serve as a good reference in the future.
 
 # Papers
 
-1. Aguirre, L. A. & Letellier, C. Modeling Nonlinear Dynamics and Chaos: A Review. Mathematical Problems in Engineering 2009, 238960 (2009). **35 pages**
-2. Wilting, J. & Priesemann, V. 25 years of criticality in neuroscience — established results, open controversies, novel concepts. Current Opinion in Neurobiology 58, 105–111 (2019). **8 pages**
-3. Terhaar, J., Vogt, L. & Foukal, N. P. Atlantic overturning inferred from air-sea heat fluxes indicates no decline since the 1960s. Nat Commun 16, 222 (2025). **17 pages**
-4. Gross, T. & Blasius, B. Adaptive coevolutionary networks: a review. J. R. Soc. Interface. 5, 259–271 (2008). **13 pages**
-5. Barzel, B. & Barabási, A.-L. Universality in network dynamics. _Nature Phys_ **9**, 673–681 (2013).**10 pages**
-6. Alkhayuon, H. M. & Ashwin, P. Rate-induced tipping from periodic attractors: Partial tipping and connecting orbits. Chaos: An Interdisciplinary Journal of Nonlinear Science 28, 033608 (2018). **12 pages**
-7. Irwin, E. G., Jayaprakash, C. & Munroe, D. K. Towards a comprehensive framework for modeling urban spatial dynamics. Landscape Ecol 24, 1223–1236 (2009). **14 pages**
-8. Wilting, J. & Priesemann, V. Inferring collective dynamical states from widely unobserved systems. _Nat Commun_ **9**, 2325 (2018). **7 pages**
-9. Krönke, J. _et al._ Dynamics of tipping cascades on complex networks. _Phys. Rev. E_ **101**, 042311 (2020). **9 pages**
-10. Alkhayuon, H., Tyson, R. C. & Wieczorek, S. Phase tipping: how cyclic ecosystems respond to contemporary climate. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 477, 20210059 (2021). **26 pages**
-11. DeAngelis, D. L. & Diaz, S. G. Decision-Making in Agent-Based Modeling: A Current Review and Future Prospectus. _Front. Ecol. Evol._ **6**, (2019). **15 pages**
-12. Battiston, F. _et al._ The physics of higher-order interactions in complex systems. _Nat. Phys._ **17**, 1093–1098 (2021) **6 pages**
-13. Mangiarotti, S. & Huc, M. Can the original equations of a dynamical system be retrieved from observational time series? _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **29**, 023133 (2019). **14 pages**
-14. Feudel, U. _et al._ Homoclinic bifurcation in a Hodgkin–Huxley model of thermally sensitive neurons. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **10**, 231–239 (2000).**9 pages**
-15. Grebogi, C., Ott, E. & Yorke, J. A. Metamorphoses of Basin Boundaries in Nonlinear Dynamical Systems. _Phys. Rev. Lett._ **56**, 1011–1014 (1986). **6 pages**
-16. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021). **17 pages**
-17. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model **26 pages**
-27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002). **5 pages**
-19. Ashwin, P., Wieczorek, S., Vitolo, R. & Cox, P. Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system. _Philos Trans A Math Phys Eng Sci_ **370**, 1166–1184 (2012). **22 pages**
-20. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009). **7 pages**
-21. Baer, S. M., Erneux, T. & Rinzel, J. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. _ResearchGate_ (1989) doi:[10.1137/0149003](https://doi.org/10.1137/0149003).**18 pages**
-22. Einstein, A. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. _Annalen der Physik_ **322**, 549–560 (1905). **12 pages**
-23. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). **18 pages**
-24. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002). **6 pages**
-25. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). **14 pages**
+1. Aguirre, L. A. & Letellier, C. Modeling Nonlinear Dynamics and Chaos: A Review. Mathematical Problems in Engineering 2009, 238960 (2009). 
+2. Wilting, J. & Priesemann, V. 25 years of criticality in neuroscience — established results, open controversies, novel concepts. Current Opinion in Neurobiology 58, 105–111 (2019).
+3. Terhaar, J., Vogt, L. & Foukal, N. P. Atlantic overturning inferred from air-sea heat fluxes indicates no decline since the 1960s. Nat Commun 16, 222 (2025). 
+4. Gross, T. & Blasius, B. Adaptive coevolutionary networks: a review. J. R. Soc. Interface. 5, 259–271 (2008). 
+5. Barzel, B. & Barabási, A.-L. Universality in network dynamics. _Nature Phys_ **9**, 673–681 (2013).
+6. Alkhayuon, H. M. & Ashwin, P. Rate-induced tipping from periodic attractors: Partial tipping and connecting orbits. Chaos: An Interdisciplinary Journal of Nonlinear Science 28, 033608 (2018). 
+7. Irwin, E. G., Jayaprakash, C. & Munroe, D. K. Towards a comprehensive framework for modeling urban spatial dynamics. Landscape Ecol 24, 1223–1236 (2009).
+8. Wilting, J. & Priesemann, V. Inferring collective dynamical states from widely unobserved systems. _Nat Commun_ **9**, 2325 (2018). 
+9. Krönke, J. _et al._ Dynamics of tipping cascades on complex networks. _Phys. Rev. E_ **101**, 042311 (2020). 
+10. Alkhayuon, H., Tyson, R. C. & Wieczorek, S. Phase tipping: how cyclic ecosystems respond to contemporary climate. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 477, 20210059 (2021). 
+11. DeAngelis, D. L. & Diaz, S. G. Decision-Making in Agent-Based Modeling: A Current Review and Future Prospectus. _Front. Ecol. Evol._ **6**, (2019). 
+12. Battiston, F. _et al._ The physics of higher-order interactions in complex systems. _Nat. Phys._ **17**, 1093–1098 (2021)
+13. Mangiarotti, S. & Huc, M. Can the original equations of a dynamical system be retrieved from observational time series? _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **29**, 023133 (2019). 
+14. Feudel, U. _et al._ Homoclinic bifurcation in a Hodgkin–Huxley model of thermally sensitive neurons. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **10**, 231–239 (2000).
+15. Grebogi, C., Ott, E. & Yorke, J. A. Metamorphoses of Basin Boundaries in Nonlinear Dynamical Systems. _Phys. Rev. Lett._ **56**, 1011–1014 (1986).
+16. An, L. _et al._ Challenges, tasks, and opportunities in modeling agent-based complex systems. _Ecological Modelling_ **457**, 109685 (2021).
+17. Kuhlbrodt, T. & Feudel, Homoclinic bifurcation in an ocean circulation box model 
+27. Milo, R. _et al._ Network Motifs: Simple Building Blocks of Complex Networks. _Science_ **298**, 824–827 (2002).
+19. Ashwin, P., Wieczorek, S., Vitolo, R. & Cox, P. Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system. _Philos Trans A Math Phys Eng Sci_ **370**, 1166–1184 (2012). 
+20. Meisel, C. & Gross, T. Adaptive self-organization in a realistic neural network model. _Phys. Rev. E_ **80**, 061917 (2009).
+21. Baer, S. M., Erneux, T. & Rinzel, J. The Slow Passage through a Hopf Bifurcation: Delay, Memory Effects, and Resonance. _ResearchGate_ (1989) doi:[10.1137/0149003](https://doi.org/10.1137/0149003).
+22. Einstein, A. Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. _Annalen der Physik_ **322**, 549–560 (1905). 
+23. Agatz, N., Hewitt, M. & Thomas, B. W. “Make no little plans”: Impactful research to solve the next generation of transportation problems. Networks 77, 269–286 (2021). 
+24. Girvan, M. & Newman, M. E. J. Community structure in social and biological networks. _Proc. Natl. Acad. Sci. U.S.A._ **99**, 7821–7826 (2002).
+25. Zhang, Y., Hua, Z., Bao, H. & Huang, H. Multi-Valued Model for Generating Complex Chaos and Fractals. IEEE Transactions on Circuits and Systems I: Regular Papers 71, 2783–2796 (2024). 
 26. Rosvall, M. & Bergstrom, C. T. Maps of random walks on complex networks reveal community structure. Proceedings of the National Academy of Sciences 105, 1118–1123 (2008).
-27. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). **17 pages**
-28. Kaszás, B., Feudel, U. & Tél, T. Death and revival of chaos. _Phys. Rev. E_ **94**, 062221 (2016). **10 pages**
-29. Kaszás, B., Feudel, U. & Tél, T. Tipping phenomena in typical dynamical systems subjected to parameter drift. _Sci Rep_ **9**, 8654 (2019). **12 pages**
-30. Letellier, C., Olsen, L. F. & Mangiarotti, S. Chaos: From theory to applications for the 80th birthday of Otto E. Rössler. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **31**, 060402 (2021). **9 pages**
+27. Yan, E. Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science and Technology 65, 2331–2347 (2014). 
+28. Kaszás, B., Feudel, U. & Tél, T. Death and revival of chaos. _Phys. Rev. E_ **94**, 062221 (2016). 
+29. Kaszás, B., Feudel, U. & Tél, T. Tipping phenomena in typical dynamical systems subjected to parameter drift. _Sci Rep_ **9**, 8654 (2019). 
+30. Letellier, C., Olsen, L. F. & Mangiarotti, S. Chaos: From theory to applications for the 80th birthday of Otto E. Rössler. _Chaos: An Interdisciplinary Journal of Nonlinear Science_ **31**, 060402 (2021).
 
 **Unread**
 
-18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. **10 pages**
-22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014). **7 pages**
-23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). **28 pages**
+18. Review of Mathematical Modelling Techniques with Applications in Biosciences. ijcsm 135–144 (2022) doi:10.52866/ijcsm.2022.01.01.015. 
+22. Perkins, T. J., Foxall, E., Glass, L. & Edwards, R. A scaling law for random walks on networks. _Nat Commun_ **5**, 5121 (2014).
+23. Jones, J. Characteristics of pattern formation and evolution in approximations of physarum transport networks. _Artificial Life_ **16**, (2010). 
 10. Lorenz, E. N. Deterministic Nonperiodic Flow. _Journal of the Atmospheric Sciences_ **20**, 130–141 (1963).
-11. Tipping elements in the Earth’s climate system. [https://www.pnas.org/doi/10.1073/pnas.0705414105](https://www.pnas.org/doi/10.1073/pnas.0705414105) doi:[10.1073/pnas.0705414105](https://doi.org/10.1073/pnas.0705414105). **8 pages**
-12. Baker, J. A. _et al._ Continued Atlantic overturning circulation even under climate extremes. _Nature_ **638**, 987–994 (2025). **21 pages**
+11. Tipping elements in the Earth’s climate system. [https://www.pnas.org/doi/10.1073/pnas.0705414105](https://www.pnas.org/doi/10.1073/pnas.0705414105) doi:[10.1073/pnas.0705414105](https://doi.org/10.1073/pnas.0705414105).
+12. Baker, J. A. _et al._ Continued Atlantic overturning circulation even under climate extremes. _Nature_ **638**, 987–994 (2025). 
 
