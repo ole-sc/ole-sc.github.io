@@ -21,9 +21,9 @@ Mathematical areas: nonlinear dynamics, network theory, stochastic processes and
 A small selection of reports from my masters degree can be found in the Portfolio section.
 
 ### Master's Thesis
-In my master thesis, I studied rate-induced tipping from a chaotic attractor in a three-species food chain model. 
+In my master's thesis, I studied rate-induced tipping from a chaotic attractor in a three-species food chain model. 
  
-While working on my thesis, I created some beautiful images which show the Lyapunov exponents of the food chain model. More details and images can be found [here](https://ole-sc.github.io/posts/2026/04/lyapunov-exponents).
+While working on my thesis, I created some beautiful images which show the Lyapunov exponents of the food chain model. In this [article](https://ole-sc.github.io/posts/2026/04/lyapunov-exponents), I explain Lyapunov exponents and show more pretty images related to this project.
 
 <img src='/images/lyapunov/lyapunov_full_inferno3.png'>
 
